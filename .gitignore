@@ -275,3 +275,6 @@ TSWLatexianTemp*
 
 #Visual Studio Code files 
 .vscode/*
+
+#Data folder because of large files
+.data/*
