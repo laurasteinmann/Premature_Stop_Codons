@@ -274,4 +274,4 @@ TSWLatexianTemp*
 *.lpz
 
 #Visual Studio Code files 
-./vscode/*
+.vscode/*
