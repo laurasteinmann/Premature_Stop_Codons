@@ -278,3 +278,6 @@ TSWLatexianTemp*
 
 #Data folder because of large files
 .data/*
+*.gff
+*.csv
+*.vcf
