@@ -36,8 +36,8 @@ def simple_gt(expression_data, gt_section):
     gt = gt_numeric.transpose()
     return gt, expression
 #Analysis
-gt_section = pd.read_csv('data/preprocessed/GT_Section_Stop_Codons_full_vcf.csv', index_col=0)
-expression_data = pd.read_csv('data/preprocessed/727_Expressiondata.csv', index_col=0)
+gt_section = pd.read_csv('../data/preprocessed/GT_Section_Stop_Codons_full_vcf.csv', index_col=0)
+expression_data = pd.read_csv('../data/preprocessed/727_Expressiondata.csv', index_col=0)
 gt, expression = simple_gt(expression_data, gt_section)
-gt.to_csv('data/preprocessed/GT_Section_Numeric_Overlap.csv')
-expression.to_csv('data/preprocessed/Expression_Overlap.csv')
+gt.to_csv('../data/preprocessed/GT_Section_Numeric_Overlap.csv')
+expression.to_csv('../data/preprocessed/Expression_Overlap.csv')
