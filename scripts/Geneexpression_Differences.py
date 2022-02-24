@@ -106,6 +106,57 @@ def p_values(stop_list, expression):
     stop_list['pvalue'] = list_pvalues
     return stop_list
 
+def functional_datasets(stop_list, pvalue):
+    stop_list_1 = stop_list[stop_list['pvalue'] <= pvalue]
+    return stop_list_1
+
+def filter_stop_significant_higher_expression(stop_list):
+    stop_list_all_significant = functional_datasets(stop_list, 0.05)
+    stop_list_significant_high_expression = stop_list_all_significant[
+        stop_list_all_significant['WT_mean'] < stop_list_all_significant['KO_mean']]
+    print('Significant premature stop codons with increase of gene expression ',
+          stop_list_significant_high_expression.shape[0])
+
+    return stop_list_significant_high_expression, stop_list_all_significant
+
+def filter_stop_significant_lower_expression(stop_list_all_significant, stop_list_significant_high_expression):
+    stop_list_significant_low_expression = stop_list_all_significant.drop(stop_list_significant_high_expression.index)
+    print('Significant premature stop codons with decrease of gene expression ',
+          stop_list_significant_low_expression.shape[0])
+
+    return stop_list_significant_low_expression
+
+def filter_gt_matrix(gt_filtered, stop_list_significant_low_expression):
+    gt_short = gt_filtered.transpose()
+    gt_short = gt_short.loc[stop_list_significant_low_expression.index]
+    gt_short = gt_short.transpose()
+
+    return gt_short
+
+def filter_stop_bonferroni_higher_expression(stop_list):
+    pvalue = 0.05 / stop_list.shape[0]
+    stop_list_bonferroni_significant = functional_datasets(stop_list, pvalue)
+    stop_list_bonferroni_high_expression = stop_list_bonferroni_significant[
+        stop_list_bonferroni_significant['WT_mean'] < stop_list_bonferroni_significant['KO_mean']]
+    print('Bonferroni corrected significant premature stop codons with increase of gene expression ',
+          stop_list_bonferroni_high_expression.shape[0])
+
+    return stop_list_bonferroni_high_expression, stop_list_bonferroni_significant
+
+def filter_stop_bonferroni_low_expression(stop_list_bonferroni_significant, stop_list_bonferroni_high_expression):
+    stop_list_bonferroni_low_expression = stop_list_bonferroni_significant.drop(
+        stop_list_bonferroni_high_expression.index)
+    print('Bonferroni corrected significant premature stop codons with decreased of gene expression ',
+          stop_list_bonferroni_low_expression.shape[0])
+
+    return stop_list_bonferroni_high_expression
+
+def filter_gt_matrix_bonferroni(gt_filtered, stop_list_bonferroni_low_expression):
+    gt_short = gt_filtered.transpose()
+    gt_short = gt_short.loc[stop_list_bonferroni_low_expression.index]
+    gt_short = gt_short.transpose()
+
+    return gt_short
 #Analysis
 gt_overlap = pd.read_csv('../data/preprocessed/GT_Section_Numeric_Overlap.csv', index_col=0)
 fixed_section = pd.read_csv('../data/preprocessed/Fixed_Section_Stop_Codons_full_vcf.csv', index_col=0) 
@@ -127,5 +178,19 @@ stop_table = fill_stat(stop_table, expression_overlap, gt_filtered, 'KO_mean', '
 stop_table = fill_acc(stop_table, gt_filtered, 'KO_acc', 1)
 stop_table = na_att(stop_table, gt_filtered)
 print('The final list of Premature Stop Codons before calculating the pvalues includes: ', stop_table.shape[0])
-stop_list = p_values(stop_table, expression_overlap)
-stop_list.to_csv('../data/processed/Genexpression_Differences/Prem_Stops_WT_ko_fulllist.csv')
+stop_table = p_values(stop_table, expression_overlap)
+stop_table.to_csv('../data/processed/Genexpression_Differences/Prem_Stops_WT_ko_fulllist.csv')
+
+stop_list_significant_high_expression, stop_list_all_significant = filter_stop_significant_higher_expression(stop_table)
+stop_list_significant_high_expression.to_csv('../data/processed/Genexpression_Differences/Type3_Stop_List_Significant.csv')
+stop_list_significant_low_expression = filter_stop_significant_lower_expression(stop_list_all_significant, stop_list_significant_high_expression)
+stop_list_significant_low_expression.to_csv('../data/processed/Genexpression_Differences/Type2_Stop_List_Significant.csv')
+gt_short = filter_gt_matrix(gt_filtered, stop_list_significant_low_expression)
+gt_short.to_csv('../data/preprocessed/GT_Significant_StopList.csv')
+
+stop_list_bonferroni_high_expression, stop_list_bonferroni_significant = filter_stop_bonferroni_higher_expression(stop_table)
+stop_list_bonferroni_high_expression.to_csv('../data/processed/Genexpression_Differences/Type3_Stop_List_Significant_Bonferroni.csv')
+stop_list_bonferroni_low_expression = filter_stop_bonferroni_low_expression(stop_list_bonferroni_significant, stop_list_bonferroni_high_expression)
+stop_list_bonferroni_low_expression.to_csv('../data/processed/Genexpression_Differences/Type2_Stop_List_Significant_Bonferroni.csv')
+gt_short = filter_gt_matrix_bonferroni(gt_filtered, stop_list_bonferroni_low_expression)
+gt_short.to_csv('../data/preprocessed/GT_Bonferroni_Significant_StopList.csv')
