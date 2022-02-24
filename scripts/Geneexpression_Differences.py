@@ -157,6 +157,68 @@ def filter_gt_matrix_bonferroni(gt_filtered, stop_list_bonferroni_low_expression
     gt_short = gt_short.transpose()
 
     return gt_short
+
+def gene_based_list(single_stop_list, gt):
+    gt = gt.transpose()
+    gt.index = gt.index.astype('int64')
+    stop_attributes = pd.DataFrame(columns=['Gene', 'Prem_Stop_Codons_Num', 'WT_num', 'WT_acc', 'KO_num', 'KO_acc',
+                                            'na_Num', 'na_Acc'])
+    unique_genes = np.unique(single_stop_list.Gene)
+    stop_attributes['Gene'] = unique_genes
+    list_num_premature_stops = []
+    for gene in unique_genes:
+        stops_in_gene = single_stop_list[single_stop_list['Gene'] == gene]
+        list_num_premature_stops.append(stops_in_gene.shape[0])
+
+    stop_attributes['Prem_Stop_Codons_Num'] = list_num_premature_stops
+
+    list_ko_num = []
+    list_ko_accessions = []
+    list_wt_num = []
+    list_wt_accessions = []
+    list_na_num = []
+    list_na_accessions  = []
+    for gene in unique_genes:
+        stops_in_gene = single_stop_list[single_stop_list['Gene'] == gene]
+        gt_stops = gt.loc[stops_in_gene.index]
+        accessions_ko = np.empty(shape=[0, gt_stops.shape[0]])
+        accessions_wt = np.empty(shape=[0, gt_stops.shape[0]])
+        accessions_na = np.empty(shape=[0, gt_stops.shape[0]])
+        for row in range(0, gt_stops.shape[0]):
+            stop_codon = gt_stops.iloc[row,:]
+            ko_accessions = stop_codon[stop_codon==1]
+            for name in ko_accessions.index:
+                accessions_ko = np.append(accessions_ko, name)
+            wt_accessions = stop_codon[stop_codon == 0]
+            for name in wt_accessions.index:
+                accessions_wt = np.append(accessions_wt, name)
+            na_accessions = stop_codon[stop_codon.isnull()]
+            for name in na_accessions.index:
+                accessions_na = np.append(accessions_na, name)
+
+        unique_accessions_ko = np.unique(accessions_ko)
+        unique_accessions_wt = np.unique(accessions_wt)
+        unique_accessions_na = np.unique(accessions_na)
+        overlap_corrected_wt = unique_accessions_wt[~np.isin(unique_accessions_wt, unique_accessions_ko)]
+        overlap_corrected_ko_na = unique_accessions_na[~np.isin(unique_accessions_na, unique_accessions_ko)]
+        overlap_corrected_na = overlap_corrected_ko_na[~np.isin(overlap_corrected_ko_na, unique_accessions_wt)]
+        list_ko_num.append(len(unique_accessions_ko))
+        list_ko_accessions.append(unique_accessions_ko)
+        list_wt_num.append(len(overlap_corrected_wt))
+        list_wt_accessions.append(overlap_corrected_wt)
+        list_na_num.append(len(overlap_corrected_na))
+        list_na_accessions.append(overlap_corrected_na)
+
+    stop_attributes['KO_num'] = list_ko_num
+    stop_attributes['KO_acc'] = list_ko_accessions
+    stop_attributes['WT_num'] = list_wt_num
+    stop_attributes['WT_acc'] = list_wt_accessions
+    stop_attributes['na_Num'] = list_na_num
+    stop_attributes['na_Acc'] = list_na_accessions
+    print('After merging the single stop premature stop codons on a gene based level: ',
+          stop_attributes.shape[0])
+
+    return stop_attributes
 #Analysis
 gt_overlap = pd.read_csv('../data/preprocessed/GT_Section_Numeric_Overlap.csv', index_col=0)
 fixed_section = pd.read_csv('../data/preprocessed/Fixed_Section_Stop_Codons_full_vcf.csv', index_col=0) 
@@ -194,3 +256,7 @@ stop_list_bonferroni_low_expression = filter_stop_bonferroni_low_expression(stop
 stop_list_bonferroni_low_expression.to_csv('../data/processed/Genexpression_Differences/Type2_Stop_List_Significant_Bonferroni.csv')
 gt_short = filter_gt_matrix_bonferroni(gt_filtered, stop_list_bonferroni_low_expression)
 gt_short.to_csv('../data/preprocessed/GT_Bonferroni_Significant_StopList.csv')
+
+# Combining significant premature stop codons to gene level list
+gene_premature_stop_list = gene_based_list(stop_list_bonferroni_low_expression, gt_short)
+gene_premature_stop_list.to_csv('../data/processed/Genexpression_Differences/Gene_Based_Bonferroni_Significant_Lower_Expression.csv')
