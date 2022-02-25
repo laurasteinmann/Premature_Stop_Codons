@@ -226,7 +226,7 @@ expression_overlap = pd.read_csv('../data/preprocessed/Expression_Overlap.csv', 
 
 stop_table = gene_info(fixed_section)
 print('Full List of Premature Stop Codons Ara11 contain: ', stop_table.shape[0])
-stop_table.to_csv('../data/processed/Genexpression_Differences/Stop_Table_Full.csv')
+stop_table.to_csv('../data/preprocessed/Stop_Table_Full.csv')
 
 stop_list_filtered, gt_filtered = filter_Common_Genes(stop_table, expression_overlap, gt_overlap)
 print('Filtered List of Premature Stop Codons after removing unknown genes of Ara11: ', stop_list_filtered.shape[0])
