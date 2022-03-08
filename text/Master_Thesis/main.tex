@@ -80,7 +80,7 @@
 % Bibliographie
 \usepackage[backend=bibtex,hyperref=true]{biblatex}
 	% TODO Warum steht der Literatur-Section-Name in der Kopfzeile?!
-	\addbibresource{Bib/GenomicPrediction.bib}
+	\addbibresource{Bib/Full_Bibliographie.bib}
 %\bibliography{Bib/GenomicPrediction.bib}
 
 \usepackage{hyperref}
@@ -107,9 +107,9 @@
 
 %Einstellungen zur Titelseite
 \titlehead{\centering\includegraphics[scale=0.4]{CCTB_Logo.pdf}}
-\title{Vorhersage von phänotypischen Werten mit Hilfe von Machine Learning}
-\subtitle{\vspace{1cm}Bachelorthesis}
-\author{Laura Steinmann \\ Betreuer: Prof. Dr. Arthur Korte}
+\title{Selection on loss-of-function variants}
+\subtitle{\vspace{1cm}Master Thesis}
+\author{Laura Steinmann \\ Supervisor: PD Dr. Arthur Korte and Prof. Dr. Dirk Becker }
 \date{\today}
 \pagenumbering{roman}
 
@@ -121,8 +121,8 @@
 \newpage
 \setcounter{page}{1}
 
-\chapter*{Zusammenfassung}
-Genome Predition ist ein Teilgebiet der quantitativen Genetik, das versucht mithilfe von genotypischen Informationen den Phänotypen eines Organismus zu prognostizieren. Die großen Erfolge von Machine Learning im Bereich der Mustererkennung machen es besonders interessant neuronale Netzwerke für diese Aufgabenstellung zu entwickeln. Bisherigen Modelle für Genome Prediction benötigen für die Vorhersage eine aufbereitete Genotypenmatrix. Wir entwickeln in dieser Arbeit ein adaptiertes Netzwerk (NA-ANN), das mithilfe von One-Hot-Kodierung die unbearbeitete Genotypenmatrix als Informationsgrundlage verwenden kann. Das Netzwerk wird an Daten aus dem 1001-Genomprojekt von \textit{Arabidopsis thaliana} getestet. Da die in diesem Datensatz enthaltenen 1035 Genome mit einer besonders hohen Genauigkeit sequenziert wurden, stellen wir die Hypothese auf, dass ein Teil der fehlenden Werte auf natürliche Deletionen im Genom und nicht auf Sequenzierfehler zurückzuführen sind. Für die Genom Prediction ziehen wir 144 Phänotypen der AraPheno-Datenbank heran. Als Vergleichsmethode verwenden wir ein weiteres neuronales Netzwerk ohne One-Hot-Kodierung und die Standardvorhersagemodell GBLUP. Um zu demonstrieren, dass das NA-ANN Netzwerk in der Lage ist Informationen aus den fehlenden Werten zu extrahieren, generieren wir einen simulierten Testdatensatz. Trotz dieses erfolgreichen Tests zeigte sich bei den realen Phänotyp- und Genotypdaten von \textit{A.thaliana} keine Verbesserung. Im Allgemeinen stellen wir fest, dass GBLUP im Verhältnis zu den neuronalen Netzwerken gleiche oder bessere Vorhersagen trifft. Die Probleme bei der Anwendung von neuronalen Netzwerke für Genome Prediction wurden bereits von Azodi et al \cite{azodi2019} und Bellot et al \cite{bellot2018} dargestellt.
+\chapter*{Abstract}
+%TODO HIER KOMMT DAS ABSTRACT
 \newpage
 \tableofcontents
 \pagenumbering{arabic}
@@ -136,7 +136,7 @@ Genome Predition ist ein Teilgebiet der quantitativen Genetik, das versucht mith
 \newpage
 \appendix
 \addtocounter{chapter}{1}
-\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}Abbildungsverzeichnis}
+\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}List of Figures}
 \listoffigures
 \printbibliography
 %listoftables
@@ -149,182 +149,5 @@ Genome Predition ist ein Teilgebiet der quantitativen Genetik, das versucht mith
 	\vspace{3cm}
 	Würzburg, \today  \hfill Laura Steinmann\(\text{ }\)
 \newpage
-\chapter{Übersicht über die Ergebnisse der 144 AraPheno-Phänotypen}
-\label{appendix}
-Hier sind alle Phänotypen mit den dazugehörigen Messdaten in einer Tabelle wiedergegeben. Dazu ist für jedes Genomvorhersagemodell der Mittelwert aus den 50 durchführten Kreuzvalidierung gebildet worden und auf zwei gültige Ziffern gerundet worde.\\
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-Phänotyp 					& Anzahl Individuen & Heritabilität & GBLUP & ANN 	 & NA-ANN \\ \hline
-0W  & 92.00  & 0.95  & 0.75  & 0.74  & 0.74 \\ \hline
-0W GH FT  & 102.00  & 0.87  & 0.78  & 0.79  & 0.78 \\ \hline
-0W GH LN  & 81.00  & 0.68  & 0.62  & 0.58  & 0.54 \\ \hline
-2W  & 103.00  & 0.97  & 0.84  & 0.84  & 0.82 \\ \hline
-4W  & 79.00  & 0.93  & 0.78  & 0.79  & 0.79 \\ \hline
-8W  & 106.00  & 0.71  & 0.72  & 0.68  & 0.71 \\ \hline
-8W GH FT  & 105.00  & 0.70  & 0.68  & 0.62  & 0.66 \\ \hline
-8W GH LN  & 105.00  & 0.51  & 0.53  & 0.51  & 0.50 \\ \hline
-After Vern Growth  & 69.00  & 0.00  & -0.16  & -0.04  & 0.02 \\ \hline
-Anthocyanin 10  & 119.00  & 0.46  & 0.26  & 0.26  & 0.09 \\ \hline
-Anthocyanin 16  & 118.00  & 0.48  & 0.16  & 0.11  & 0.13 \\ \hline
-Anthocyanin 22  & 119.00  & 0.71  & 0.45  & 0.41  & 0.33 \\ \hline
-Aphid number  & 63.00  & 0.37  & -0.03  & -0.03  & 0.07 \\ \hline
-As  & 119.00  & 0.00  & 0.00  & -0.01  & -0.09 \\ \hline
-As2  & 119.00  & 0.09  & -0.00  & -0.01  & -0.02 \\ \hline
-As2 CFU2  & 119.00  & 0.15  & 0.15  & -0.04  & 0.11 \\ \hline
-As75  & 62.00  & 0.23  & 0.32  & 0.22  & 0.22 \\ \hline
-As CFU2  & 119.00  & 0.00  & -0.10  & -0.14  & 0.05 \\ \hline
-At1  & 119.00  & 0.43  & 0.14  & 0.10  & 0.05 \\ \hline
-At1 CFU2  & 119.00  & 0.10  & 0.03  & -0.06  & 0.00 \\ \hline
-At2  & 119.00  & 0.35  & 0.20  & 0.18  & 0.10 \\ \hline
-At2 CFU2  & 119.00  & 0.19  & 0.14  & 0.03  & 0.07 \\ \hline
-B11  & 150.00  & 0.18  & 0.15  & 0.06  & 0.03 \\ \hline
-Bacterial titer  & 64.00  & 0.81  & 0.55  & 0.47  & 0.45 \\ \hline
-Bs  & 119.00  & 0.13  & 0.07  & 0.02  & 0.06 \\ \hline
-Bs CFU2  & 119.00  & 0.44  & 0.22  & 0.16  & 0.27 \\ \hline
-Ca43  & 62.00  & 0.84  & 0.40  & -0.08  & 0.39 \\ \hline
-Cd114  & 62.00  & 0.85  & 0.34  & 0.28  & 0.24 \\ \hline
-Chlorosis 10  & 119.00  & 0.00  & 0.16  & 0.10  & 0.11 \\ \hline
-Chlorosis 16  & 118.00  & 0.00  & -0.02  & -0.03  & 0.01 \\ \hline
-Chlorosis 22  & 118.00  & 0.45  & 0.29  & 0.26  & 0.26 \\ \hline
-Co59  & 62.00  & 0.73  & 0.38  & 0.34  & 0.23 \\ \hline
-Cu65  & 62.00  & 0.04  & -0.02  & -0.06  & 0.04 \\ \hline
-DSDS50  & 68.00  & 1.00  & 0.63  & 0.64  & 0.62 \\ \hline
-\end{tabular}
-\end{table}
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-Phänotyp 					& Anzahl Individuen & Heritabilität & GBLUP & ANN 	 & NA-ANN \\ \hline
-DTFlocSweden2008  & 154.00  & 1.00  & 0.79  & 0.79  & 0.78 \\ \hline
-DTFlocSweden2009  & 213.00  & 1.00  & 0.82  & 0.82  & 0.79 \\ \hline
-DTFmainEffect2008  & 154.00  & 1.00  & 0.82  & 0.82  & 0.81 \\ \hline
-DTFmainEffect2009  & 213.00  & 1.00  & 0.83  & 0.84  & 0.82 \\ \hline
-DTFplantingLoc2008  & 154.00  & 0.60  & 0.25  & 0.12  & 0.22 \\ \hline
-DTFplantingSummerLocSweden2009  & 213.00  & 0.68  & 0.30  & 0.29  & 0.24 \\ \hline
-DW   & 64.00  & 0.75  & 0.36  & 0.07  & 0.02 \\ \hline
-Emco5  & 56.00  & 1.00  & 0.31  & 0.39  & 0.18 \\ \hline
-Emoy  & 51.00  & 0.38  & 0.23  & 0.19  & 0.13 \\ \hline
-Emwa1  & 58.00  & 0.47  & 0.22  & 0.19  & 0.19 \\ \hline
-FLC  & 112.00  & 0.90  & 0.55  & 0.53  & 0.49 \\ \hline
-FRI  & 111.00  & 0.42  & 0.38  & 0.38  & 0.37 \\ \hline
-FT10  & 1003.00  & 0.89  & 0.82  & 0.79  & 0.80 \\ \hline
-FT16  & 970.00  & 0.90  & 0.82  & 0.81  & 0.80 \\ \hline
-FT22  & 134.00  & 0.93  & 0.78  & 0.78  & 0.76 \\ \hline
-FT Diameter Field  & 120.00  & 0.56  & 0.45  & 0.37  & 0.39 \\ \hline
-FT Duration GH  & 92.00  & 0.48  & 0.43  & 0.42  & 0.45 \\ \hline
-FT Field  & 120.00  & 1.00  & 0.69  & 0.45  & 0.65 \\ \hline
-FT GH  & 109.00  & 1.00  & 0.74  & 0.73  & 0.74 \\ \hline
-FW   & 64.00  & 0.71  & 0.43  & 0.44  & 0.40 \\ \hline
-Fe56  & 62.00  & 0.17  & 0.13  & 0.16  & 0.14 \\ \hline
-Germ 10  & 119.00  & 0.40  & 0.27  & 0.20  & 0.20 \\ \hline
-Germ 16  & 118.00  & 0.58  & 0.25  & 0.14  & 0.11 \\ \hline
-Germ 22  & 119.00  & 0.30  & 0.19  & 0.15  & 0.09 \\ \hline
-Germ in dark  & 59.00  & 0.89  & 0.39  & 0.40  & 0.27 \\ \hline
-Hiks1  & 55.00  & 1.00  & 0.35  & 0.31  & 0.16 \\ \hline
-Hypocotyl length  & 61.00  & 1.00  & 0.45  & 0.45  & 0.37 \\ \hline
-K39  & 62.00  & 0.57  & 0.24  & 0.23  & 0.16 \\ \hline
-LC Duration GH  & 92.00  & 0.92  & 0.54  & 0.50  & 0.49 \\ \hline
-\end{tabular}
-\end{table}
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-Phänotyp 					& Anzahl Individuen & Heritabilität & GBLUP & ANN 	 & NA-ANN \\ \hline
-LD  & 113.00  & 1.00  & 0.81  & 0.81  & 0.80 \\ \hline
-LDV  & 112.00  & 0.79  & 0.79  & 0.74  & 0.78 \\ \hline
-LES  & 64.00  & 1.00  & 0.66  & 0.61  & 0.45 \\ \hline
-LFS GH  & 93.00  & 0.97  & 0.55  & 0.52  & 0.50 \\ \hline
-LN10  & 119.00  & 0.78  & 0.68  & 0.69  & 0.65 \\ \hline
-LN16  & 118.00  & 1.00  & 0.70  & 0.70  & 0.68 \\ \hline
-LN22  & 118.00  & 0.90  & 0.63  & 0.62  & 0.62 \\ \hline
-LY   & 64.00  & 1.00  & 0.67  & 0.62  & 0.37 \\ \hline
-Leaf roll 10  & 119.00  & 1.00  & 0.44  & 0.39  & 0.32 \\ \hline
-Leaf roll 16  & 118.00  & 0.30  & 0.26  & 0.22  & 0.20 \\ \hline
-Leaf roll 22  & 118.00  & 0.00  & -0.08  & -0.09  & 0.04 \\ \hline
-Leaf serr 10  & 118.00  & 0.71  & 0.44  & 0.45  & 0.29 \\ \hline
-Leaf serr 16  & 118.00  & 0.73  & 0.29  & 0.27  & 0.05 \\ \hline
-Leaf serr 22  & 118.00  & 0.82  & 0.24  & 0.21  & 0.06 \\ \hline
-Li7  & 150.00  & 0.09  & 0.00  & 0.01  & -0.01 \\ \hline
-M130T666  & 207.00  & 1.00  & 0.44  & 0.31  & 0.40 \\ \hline
-M172T666  & 207.00  & 1.00  & 0.60  & 0.55  & 0.57 \\ \hline
-M216T665  & 207.00  & 1.00  & 0.58  & 0.50  & 0.55 \\ \hline
-MT GH  & 92.00  & 0.93  & 0.48  & 0.33  & 0.42 \\ \hline
-Mature cell length  & 104.00  & 0.24  & 0.11  & 0.04  & 0.07 \\ \hline
-Meristem zone length  & 104.00  & 0.10  & 0.05  & 0.07  & 0.04 \\ \hline
-Mg25  & 62.00  & 0.93  & 0.58  & 0.02  & 0.54 \\ \hline
-Mn55  & 62.00  & 0.45  & 0.33  & 0.33  & 0.27 \\ \hline
-Mo98  & 62.00  & 0.97  & 0.10  & 0.08  & 0.01 \\ \hline
-Na23  & 62.00  & 0.56  & 0.32  & 0.35  & 0.32 \\ \hline
-Ni60  & 62.00  & 0.38  & 0.21  & 0.17  & 0.25 \\ \hline
-Noco2  & 59.00  & 0.20  & 0.13  & 0.16  & 0.02 \\ \hline
-P31  & 62.00  & 0.58  & 0.44  & 0.42  & 0.34 \\ \hline
-RP GH  & 92.00  & 0.65  & 0.37  & 0.25  & 0.29 \\ \hline
-Rosette Erect 22  & 118.00  & 0.57  & 0.35  & 0.34  & 0.21 \\ \hline
-S34  & 62.00  & 0.46  & 0.25  & 0.14  & 0.16 \\ \hline
-SD  & 107.00  & 1.00  & 0.79  & 0.79  & 0.77 \\ \hline
-SDV  & 104.00  & 0.91  & 0.66  & 0.66  & 0.62 \\ \hline
-Se82  & 62.00  & 0.66  & 0.35  & 0.30  & 0.24 \\ \hline
-\end{tabular}
-\end{table}
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-Phänotyp 					& Anzahl Individuen & Heritabilität & GBLUP & ANN 	 & NA-ANN \\ \hline
-Secondary Dormancy  & 59.00  & 0.93  & 0.62  & 0.58  & 0.38 \\ \hline
-Seed Dormancy  & 56.00  & 1.00  & 0.74  & 0.75  & 0.67 \\ \hline
-Seed bank 133-91  & 69.00  & 1.00  & 0.36  & 0.35  & 0.30 \\ \hline
-Seedling Growth  & 60.00  & 0.16  & 0.04  & 0.23  & 0.01 \\ \hline
-Silique 16  & 64.00  & 0.81  & 0.25  & 0.05  & 0.07 \\ \hline
-Silique 22  & 64.00  & 1.00  & 0.48  & 0.35  & 0.26 \\ \hline
-SizeLocSweden2009  & 205.00  & 0.98  & 0.63  & 0.60  & 0.58 \\ \hline
-SizeMainEffect2009  & 212.00  & 0.89  & 0.39  & 0.37  & 0.35 \\ \hline
-SizePlantingSummer2009  & 189.00  & 0.82  & 0.33  & 0.26  & 0.24 \\ \hline
-SizePlantingSummerLocSweden2009  & 175.00  & 0.69  & 0.27  & 0.23  & 0.28 \\ \hline
-Storage 28 days  & 69.00  & 1.00  & 0.70  & 0.67  & 0.67 \\ \hline
-Storage 56 days  & 69.00  & 1.00  & 0.61  & 0.53  & 0.55 \\ \hline
-Storage 7 days  & 69.00  & 0.96  & 0.72  & 0.73  & 0.68 \\ \hline
-Trichome avg C  & 63.00  & 0.78  & 0.39  & 0.32  & 0.35 \\ \hline
-Trichome avg JA  & 63.00  & 0.82  & 0.36  & 0.26  & 0.34 \\ \hline
-Vern Growth  & 69.00  & 0.25  & 0.06  & -0.01  & -0.07 \\ \hline
-Width 10  & 118.00  & 0.88  & 0.45  & 0.40  & 0.42 \\ \hline
-Width 16  & 117.00  & 0.81  & 0.41  & 0.28  & 0.32 \\ \hline
-Width 22  & 117.00  & 0.74  & 0.24  & 0.14  & 0.19 \\ \hline
-YEL   & 64.00  & 1.00  & 0.85  & 0.71  & 0.86 \\ \hline
-YieldLocSweden2009  & 178.00  & 0.95  & 0.40  & 0.30  & 0.01 \\ \hline
-YieldMainEffect2009  & 201.00  & 0.85  & 0.58  & 0.37  & 0.14 \\ \hline
-YieldPlantingSummer2009  & 164.00  & 0.69  & 0.22  & 0.08  & -0.09 \\ \hline
-YieldPlantingSummerLocSweden2009  & 151.00  & 0.96  & 0.30  & 0.13  & 0.06 \\ \hline
-Yield spain 2009 1st experiment  & 165.00  & 1.00  & 0.60  & 0.41  & 0.13 \\ \hline
-Yield spain 2009 2nd experiment  & 143.00  & 1.00  & 0.48  & 0.03  & -0.05 \\ \hline
-Yield sweden 2009 1st experiment  & 162.00  & 0.85  & 0.38  & 0.18  & 0.01 \\ \hline
-Yield sweden 2009 2nd experiment  & 135.00  & 0.00  & -0.17  & 0.01  & -0.01 \\ \hline
-Zn66  & 62.00  & 1.00  & 0.25  & 0.22  & 0.20 \\ \hline
-avrB  & 60.00  & 1.00  & 0.21  & 0.19  & 0.09 \\ \hline
-avrPphB  & 62.00  & 1.00  & 0.53  & 0.47  & 0.37 \\ \hline
-avrRpm1  & 58.00  & 1.00  & 0.16  & 0.10  & 0.09 \\ \hline
-avrRpt2  & 62.00  & 1.00  & 0.24  & 0.20  & 0.07 \\ \hline
-Area sweden 2009 (1st experiment)  & 202.00  & 0.83  & 0.43  & 0.31  & 0.41 \\ \hline
-Area sweden 2009 (2nd experiment)  & 211.00  & 0.40  & 0.26  & 0.21  & 0.24 \\ \hline
-\end{tabular}
-\end{table}
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|l|}
-\hline
-Phänotyp 					& Anzahl Individuen & Heritabilität & GBLUP & ANN 	 & NA-ANN \\ \hline
-DTF spain 2008 (1st experiment)  & 154.00  & 1.00  & 0.81  & 0.77  & 0.78 \\ \hline
-DTF spain 2008 (2nd experiment)  & 154.00  & 1.00  & 0.83  & 0.83  & 0.82 \\ \hline
-DTF spain 2009 (1st experiment)  & 213.00  & 1.00  & 0.82  & 0.75  & 0.80 \\ \hline
-DTF spain 2009 (2nd experiment)  & 213.00  & 1.00  & 0.85  & 0.86  & 0.84 \\ \hline
-DTF sweden 2008 (1st experiment)  & 154.00  & 1.00  & 0.85  & 0.86  & 0.84 \\ \hline
-DTF sweden 2008 (2nd experiment)  & 154.00  & 1.00  & 0.88  & 0.88  & 0.87 \\ \hline
-DTF sweden 2009 (1st experiment)  & 213.00  & 1.00  & 0.87  & 0.87  & 0.85 \\ \hline
-DTF sweden 2009 (2nd experiment)  & 213.00  & 1.00  & 0.88  & 0.89  & 0.87 \\ \hline
-Size spain 2009 (1st experiment)  & 212.00  & 0.89  & 0.41  & 0.36  & 0.35 \\ \hline
-Size spain 2009 (2nd experiment)  & 187.00  & 0.94  & 0.40  & 0.37  & 0.35 \\ \hline
-Size sweden 2009 (1st experiment)  & 205.00  & 0.98  & 0.67  & 0.66  & 0.64 \\ \hline
-Size sweden 2009 (2nd experiment)  & 177.00  & 1.00  & 0.67  & 0.66  & 0.64 \\ \hline
 
-\end{tabular}
-\end{table}
 \end{document}
