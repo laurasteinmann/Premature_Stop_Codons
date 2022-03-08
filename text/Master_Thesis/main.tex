@@ -106,23 +106,39 @@
 % \newtheorem{definition}{Definition}
 
 %Einstellungen zur Titelseite
+\begin{document}
 \titlehead{\centering\includegraphics[scale=0.4]{CCTB_Logo.pdf}}
 \title{Selection on loss-of-function variants}
-\subtitle{\vspace{1cm}Master Thesis}
-\author{Laura Steinmann \\ Supervisor: PD Dr. Arthur Korte and Prof. Dr. Dirk Becker }
+\subject{Master Thesis}
+\subtitle{\vspace{1cm}Master Biosciences \\ Faculty of Biology \\ Julius-Maximilians-Universität Würzburg}
+\author{submitted by Laura Steinmann \\from Würzburg\\ Supervisor PD Arthur Korte}
+
 \date{\today}
 \pagenumbering{roman}
 
-\begin{document}
+
 \AddLayersToPageStyle{empty}{titlepage.seal}% add the layer to pagestyle empty
 \maketitle
 \thispagestyle{empty}
 \RemoveLayersFromPageStyle{empty}{titlepage.seal}
 \newpage
+\vspace*{\fill}
+\begingroup
+\centering
+\textsf{\textbf{Supervisor} \quad PD Arthur Korte}\\
+\vspace{2cm}
+\textsf{\textbf{Second reviewer} \quad Prof. Dr. Dirk Becker} \\
+\vspace{2cm}
+\textsf{\textbf{Date of Submission, office stamp}}\\
+\vspace{10mm}
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\
+\endgroup
+\vspace*{{\fill}}
 \setcounter{page}{1}
-
+\chapter*{Zusammenfassung}
+%TODO HIER KOMMT DAS ABSTRACT IN GERMAN
 \chapter*{Abstract}
-%TODO HIER KOMMT DAS ABSTRACT
+%TODO HIER KOMMT DAS ABSTRACT IN ENGLISH
 \newpage
 \tableofcontents
 \pagenumbering{arabic}
@@ -141,12 +157,26 @@
 \printbibliography
 %listoftables
 \newpage
-\section*{Eigenständigkeitserklärung}
-	Hiermit erkläre ich, dass ich die vorliegende Arbeit selbständig verfasst, keine anderen als die
-	angegebenen Quellen und Hilfsmittel verwendet und die Arbeit keiner anderen Prüfungsbehörde
-	unter Erlangung eines akademischen Grades vorgelegt habe.
-
-	\vspace{3cm}
+\section*{Affirmation}
+I hereby confirm that my master thesis entitled Selection on loss-of-function variants \\
+is the result of my own work./ \\
+I did not receive any support from commercial consultants. /\\
+I have given due reference to all sources and materials used in the thesis and have listed and
+specified them. /\\
+I confirm that this thesis has not yet been submitted as part of another examination process
+neither in identical nor in similar form. /\\
+I agree that the thesis can be checked for plagiarism also by using a software./\\
+\vspace{3mm}\\
+Hiermit erkläre ich an Eides statt, dass ich die Masterarbeit mit dem Titel Selektion der Loss-of-Function Varianten \\
+eigenständig und eigenhändig angefertigt habe.\\
+Ich habe keine Unterstützung kommerzieller Berater erhalten.\\
+Ich habe alle in der Arbeit verwendeten Quellen und Materialien ordnungsgemäß zitiert,
+aufgelistet und spezifiziert \\
+Ich erkläre, dass die vorliegende Arbeit weder in gleicher noch in ähnlicher Form bereits in
+einem anderen Prüfungsverfahren vorgelegen hat.\\
+Ich bestätige, dass die Thesis auch mit Hilfe einer Software auf Plagiat untersucht werden 
+kann\\
+	\vspace{3cm}\\
 	Würzburg, \today  \hfill Laura Steinmann\(\text{ }\)
 \newpage
 
