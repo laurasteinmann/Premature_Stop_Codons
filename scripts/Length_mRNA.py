@@ -45,7 +45,7 @@ results_table.to_csv('../data/processed/Relative_Lengths/Stop_Codons_Full_List_L
 results_table_threshold = results_table[results_table['Relative_Length']>=30]
 results_table_threshold.to_csv('../data/processed/Relative_Lengths/Stop_Codons_30percent_Threshold.csv')
 results_table_sorted = results_table.sort_values(by='Relative_Length')
-results_table_equal = results_table_sorted.iloc[0:7124,]
+results_table_equal = results_table_sorted.iloc[0:247,]
 threshold_2 = results_table_equal.iloc[-1,]['Relative_Length']
 print("Second_Threshold: ", threshold_2)
 results_table_equal.to_csv('../data/processed/Relative_Lengths/Stop_Codons_Equal_Number_Approach1.csv')

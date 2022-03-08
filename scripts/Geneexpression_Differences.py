@@ -149,7 +149,7 @@ def filter_stop_bonferroni_low_expression(stop_list_bonferroni_significant, stop
     print('Bonferroni corrected significant premature stop codons with decreased of gene expression ',
           stop_list_bonferroni_low_expression.shape[0])
 
-    return stop_list_bonferroni_high_expression
+    return stop_list_bonferroni_low_expression
 
 def filter_gt_matrix_bonferroni(gt_filtered, stop_list_bonferroni_low_expression):
     gt_short = gt_filtered.transpose()
@@ -237,7 +237,7 @@ stop_table = fill_acc(stop_table, gt_filtered, 'WT_acc', 0)
 stop_table = fill_num(stop_table, gt_filtered, "KO_num", 1)
 stop_table, gt_filtered = filter_num(stop_table, gt_filtered, 'KO_num')
 stop_table = fill_stat(stop_table, expression_overlap, gt_filtered, 'KO_mean', 'KO_std', 1)
-stop_table = fill_acc(stop_table, gt_filtered, 'KO_acc', 1)
+stop_table = fill_acc(stop_table, gt_filtered, 'KO_acc', 1) 
 stop_table = na_att(stop_table, gt_filtered)
 print('The final list of Premature Stop Codons before calculating the pvalues includes: ', stop_table.shape[0])
 stop_table = p_values(stop_table, expression_overlap)
