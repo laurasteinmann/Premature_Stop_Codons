@@ -1,4 +1,4 @@
-\documentclass[ngerman,onecolumn,bibliography=totocnumbered]{scrreprt}
+\documentclass[english,onecolumn,bibliography=totocnumbered]{scrreprt}
 
 % Spracheinstellungen
 \usepackage[T1]{fontenc}
@@ -78,9 +78,12 @@
 \patchcmd{\listoffigures}{\chapter*}{\chapter}{}{}
 
 % Bibliographie
-\usepackage[backend=bibtex,hyperref=true]{biblatex}
+\usepackage[
+backend=biber,
+sorting=none
+]{biblatex}
 	% TODO Warum steht der Literatur-Section-Name in der Kopfzeile?!
-	\addbibresource{Bib/Full_Bibliographie.bib}
+\addbibresource{Bib/Full_Bibliography.bib}
 %\bibliography{Bib/GenomicPrediction.bib}
 
 \usepackage{hyperref}
@@ -154,6 +157,7 @@
 \addtocounter{chapter}{1}
 \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}List of Figures}
 \listoffigures
+
 \printbibliography
 %listoftables
 \newpage

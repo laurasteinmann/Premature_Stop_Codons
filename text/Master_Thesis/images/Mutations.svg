@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="650"
+   height="640"
+   version="1.1"
+   id="svg439"
+   sodipodi:docname="Mutations.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview441"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.3640625"
+     inkscape:cx="421.53494"
+     inkscape:cy="320"
+     inkscape:window-width="1920"
+     inkscape:window-height="1139"
+     inkscape:window-x="3840"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg439" />
+  <defs
+     id="defs5">
+    <marker
+       id="h"
+       markerHeight="13.244"
+       markerWidth="11.299"
+       orient="auto"
+       refX="5.6495"
+       refY="6.622">
+      <polygon
+         transform="translate(-423.37 -314.74)"
+         points="423.37 314.74 430.02 321.23 423.37 327.99 434.67 320.97"
+         fill="#e42322"
+         id="polygon2" />
+    </marker>
+  </defs>
+  <g
+     id="g1484"
+     transform="matrix(0.47233056,0,0,0.50972991,-1.4979306,-4.7227854)"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <circle
+       cx="325"
+       cy="320"
+       r="280"
+       fill="#f6f6f6"
+       id="circle7" />
+    <use
+       transform="rotate(180,325,320)"
+       xlink:href="#c"
+       id="use9"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <g
+       id="c"
+       stroke="#000000">
+      <g
+         id="d">
+        <g
+           id="e"
+           stroke="#000000">
+          <g
+             id="f">
+            <path
+               d="m 325,320 v 200 a 200,200 0 0 0 19.604,-0.96289 z"
+               fill="#83d0f0"
+               stroke="#000000"
+               id="path11" />
+            <path
+               d="m 325,320 19.603,199.04 a 200,200 0 0 0 19.415,-2.8797 z"
+               fill="#f19fc1"
+               stroke="#000000"
+               id="path13" />
+            <path
+               d="m 325,320 39.018,196.16 a 200,200 0 0 0 19.039,-4.7688 z"
+               fill="#fff59a"
+               stroke="#000000"
+               id="path15" />
+            <path
+               d="m 325,320 58.057,191.39 a 200,200 0 0 0 18.48,-6.612 z"
+               fill="#8fc796"
+               stroke="#000000"
+               id="path17" />
+          </g>
+          <use
+             transform="rotate(-22.5,325,320)"
+             xlink:href="#f"
+             id="use20"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <use
+           transform="rotate(-45,325,320)"
+           xlink:href="#e"
+           id="use23"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         transform="rotate(-90,325,320)"
+         xlink:href="#d"
+         id="use26"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <use
+       transform="rotate(180,325,320)"
+       xlink:href="#a"
+       id="use29"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <g
+       stroke="#000000"
+       id="g99">
+      <g
+         id="a"
+         stroke="#000000">
+        <g
+           id="b">
+          <path
+             d="M 390.06,477.06 A 170,170 0 0 1 325.004,490 V 320 Z"
+             fill="#83d0f0"
+             stroke="#000000"
+             id="path31" />
+          <path
+             d="m 445.21,440.2 a 170,170 0 0 1 -55.152,36.851 l -65.056,-157.06 z"
+             fill="#f19fc1"
+             stroke="#000000"
+             id="path33" />
+          <path
+             d="m 482.06,385.05 a 170,170 0 0 1 -36.852,55.152 l -120.21,-120.21 z"
+             fill="#fff59a"
+             stroke="#000000"
+             id="path35" />
+          <path
+             d="m 495,320 a 170,170 0 0 1 -12.941,65.056 L 324.999,320 Z"
+             fill="#8fc796"
+             stroke="#000000"
+             id="path37" />
+        </g>
+        <use
+           transform="rotate(-90,325.01,320)"
+           xlink:href="#b"
+           id="use40"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <g
+         id="g51">
+        <path
+           d="M 425,320 A 100,100 0 0 1 325,420 V 320 Z"
+           fill="#fff59a"
+           stroke-width="1.2"
+           id="path43" />
+        <path
+           d="M 325,420 A 100,100 0 0 1 225,320 h 100 z"
+           fill="#f19fc1"
+           id="path45" />
+        <path
+           d="M 225,320 A 100,100 0 0 1 325,220 v 100 z"
+           fill="#83d0f0"
+           id="path47" />
+        <path
+           d="M 325,220 A 100,100 0 0 1 425,320 H 325 Z"
+           fill="#8fc796"
+           id="path49" />
+      </g>
+      <g
+         fill="none"
+         id="g97">
+        <path
+           d="M 364.02,123.84 379.626,45.38"
+           id="path53" />
+        <path
+           d="M 401.54,135.22 432.153,61.312"
+           id="path55" />
+        <path
+           d="m 466.42,178.58 56.566,-56.567"
+           id="path57" />
+        <path
+           d="m 491.3,208.89 66.515,-44.444"
+           id="path59" />
+        <path
+           d="m 501.39,225.72 70.551,-37.711"
+           id="path61" />
+        <path
+           d="m 509.78,243.46 73.907,-30.614"
+           id="path63" />
+        <path
+           d="m 521.16,280.98 78.46,-15.607"
+           id="path65" />
+        <path
+           d="m 524.04,300.4 79.611,-7.8415"
+           id="path67" />
+        <path
+           d="m 509.78,396.54 73.908,30.613"
+           id="path69" />
+        <path
+           d="m 466.42,461.42 56.567,56.566"
+           id="path71" />
+        <path
+           d="m 436.11,486.3 44.444,66.515"
+           id="path73" />
+        <path
+           d="m 401.54,504.78 30.614,73.907"
+           id="path75" />
+        <path
+           d="m 266.94,511.39 -23.221,76.552"
+           id="path77" />
+        <path
+           d="m 248.46,504.78 -30.613,73.908"
+           id="path79" />
+        <path
+           d="m 183.58,461.42 -56.566,56.567"
+           id="path81" />
+        <path
+           d="M 158.7,431.11 92.185,475.554"
+           id="path83" />
+        <path
+           d="M 140.22,396.54 66.313,427.154"
+           id="path85" />
+        <path
+           d="M 128.84,359.02 50.38,374.627"
+           id="path87" />
+        <path
+           d="M 140.22,243.46 66.313,212.847"
+           id="path89" />
+        <path
+           d="M 183.58,178.58 127.013,122.014"
+           id="path91" />
+        <path
+           d="M 213.89,153.7 169.446,87.185"
+           id="path93" />
+        <path
+           d="M 248.46,135.22 217.846,61.313"
+           id="path95" />
+      </g>
+    </g>
+    <g
+       id="i">
+      <path
+         id="g"
+         d="m 325.01,320.01 h 16.184 91.329 101.48 51.707"
+         fill="none"
+         marker-mid="url(#h)"
+         stroke="#e42322"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.2" />
+      <use
+         transform="rotate(-90,325,320)"
+         xlink:href="#g"
+         id="use102"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <use
+       transform="rotate(180,325,320)"
+       xlink:href="#i"
+       id="use105"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <g
+       stroke="#000000"
+       id="g125">
+      <circle
+         cx="325"
+         cy="320"
+         r="10"
+         fill="#ffffff"
+         id="circle107" />
+      <g
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.2"
+         id="g123">
+        <g
+           id="g117">
+          <path
+             d="m 222.03,580.18 14.183,-12.036 3.3319,18.3 z"
+             id="path109" />
+          <rect
+             x="555.23999"
+             y="277.98001"
+             width="13"
+             height="13"
+             id="rect111" />
+          <rect
+             x="535.53003"
+             y="211.03999"
+             width="13"
+             height="13"
+             id="rect113" />
+          <rect
+             x="524.13"
+             y="190.97"
+             width="13"
+             height="13"
+             id="rect115" />
+        </g>
+        <rect
+           x="552.54999"
+           y="596.64001"
+           width="18"
+           height="18"
+           id="rect119" />
+        <path
+           d="m 552.55,590.66 v -18 l 15.588,9 z"
+           id="path121" />
+      </g>
+    </g>
+    <g
+       id="g437">
+      <g
+         font-family="'DejaVu Sans'"
+         font-weight="bold"
+         text-anchor="middle"
+         id="g303">
+        <g
+           font-size="50px"
+           id="g135">
+          <text
+             x="283"
+             y="295"
+             id="text127">G</text>
+          <text
+             x="367"
+             y="295"
+             id="text129">U</text>
+          <text
+             x="282"
+             y="380"
+             id="text131">A</text>
+          <text
+             x="367"
+             y="380"
+             id="text133">C</text>
+        </g>
+        <g
+           font-size="40px"
+           id="g145">
+          <text
+             x="351"
+             y="201"
+             id="text137">U</text>
+          <text
+             x="400"
+             y="222"
+             id="text139">C</text>
+          <text
+             x="437"
+             y="259"
+             id="text141">A</text>
+          <text
+             x="458"
+             y="308"
+             id="text143">G</text>
+        </g>
+        <g
+           font-size="15px"
+           id="g275">
+          <text
+             x="334"
+             y="140"
+             id="text147">U</text>
+          <text
+             x="352"
+             y="142"
+             id="text149">C</text>
+          <text
+             x="369"
+             y="146"
+             id="text151">A</text>
+          <text
+             x="387"
+             y="151"
+             id="text153">G</text>
+          <text
+             x="404"
+             y="158"
+             id="text155">U</text>
+          <text
+             x="419"
+             y="166"
+             id="text157">C</text>
+          <text
+             x="434"
+             y="176"
+             id="text159">A</text>
+          <text
+             x="449"
+             y="188"
+             id="text161">G</text>
+          <text
+             x="462"
+             y="201"
+             id="text163">U</text>
+          <text
+             x="473"
+             y="214"
+             id="text165">C</text>
+          <text
+             x="483"
+             y="230"
+             id="text167">A</text>
+          <text
+             x="492"
+             y="246"
+             id="text169">G</text>
+          <text
+             x="501"
+             y="264"
+             id="text171">U</text>
+          <text
+             x="504"
+             y="280"
+             id="text173">C</text>
+          <text
+             x="507"
+             y="298"
+             id="text175">A</text>
+          <text
+             x="509"
+             y="316"
+             id="text177">G</text>
+          <text
+             x="509"
+             y="334"
+             id="text179">U</text>
+          <text
+             x="508"
+             y="353"
+             id="text181">C</text>
+          <text
+             x="504"
+             y="370"
+             id="text183">A</text>
+          <text
+             x="499"
+             y="387"
+             id="text185">G</text>
+          <text
+             x="493"
+             y="405"
+             id="text187">U</text>
+          <text
+             x="483"
+             y="421"
+             id="text189">C</text>
+          <text
+             x="474"
+             y="435"
+             id="text191">A</text>
+          <text
+             x="462"
+             y="450"
+             id="text193">G</text>
+          <text
+             x="449"
+             y="463"
+             id="text195">U</text>
+          <text
+             x="436"
+             y="476"
+             id="text197">C</text>
+          <text
+             x="420"
+             y="484"
+             id="text199">A</text>
+          <text
+             x="404"
+             y="492"
+             id="text201">G</text>
+          <text
+             x="387"
+             y="500"
+             id="text203">U</text>
+          <text
+             x="370"
+             y="505"
+             id="text205">C</text>
+          <text
+             x="352"
+             y="508"
+             id="text207">A</text>
+          <text
+             x="334"
+             y="510"
+             id="text209">G</text>
+          <text
+             x="315"
+             y="510"
+             id="text211">U</text>
+          <text
+             x="297"
+             y="509"
+             id="text213">C</text>
+          <text
+             x="280"
+             y="504"
+             id="text215">A</text>
+          <text
+             x="262"
+             y="499"
+             id="text217">G</text>
+          <text
+             x="245"
+             y="492"
+             id="text219">U</text>
+          <text
+             x="229"
+             y="485"
+             id="text221">C</text>
+          <text
+             x="214"
+             y="474"
+             id="text223">A</text>
+          <text
+             x="200"
+             y="462"
+             id="text225">G</text>
+          <text
+             x="187"
+             y="449"
+             id="text227">U</text>
+          <text
+             x="176"
+             y="435"
+             id="text229">C</text>
+          <text
+             x="166"
+             y="420"
+             id="text231">A</text>
+          <text
+             x="157"
+             y="404"
+             id="text233">G</text>
+          <text
+             x="150"
+             y="387"
+             id="text235">U</text>
+          <text
+             x="145"
+             y="370"
+             id="text237">C</text>
+          <text
+             x="142"
+             y="352"
+             id="text239">A</text>
+          <text
+             x="140"
+             y="334"
+             id="text241">G</text>
+          <text
+             x="140"
+             y="316"
+             id="text243">U</text>
+          <text
+             x="141"
+             y="298"
+             id="text245">C</text>
+          <text
+             x="145"
+             y="280"
+             id="text247">A</text>
+          <text
+             x="150"
+             y="263"
+             id="text249">G</text>
+          <text
+             x="157"
+             y="246"
+             id="text251">U</text>
+          <text
+             x="165"
+             y="230"
+             id="text253">C</text>
+          <text
+             x="176"
+             y="215"
+             id="text255">A</text>
+          <text
+             x="188"
+             y="201"
+             id="text257">G</text>
+          <text
+             x="200"
+             y="188"
+             id="text259">U</text>
+          <text
+             x="214"
+             y="176"
+             id="text261">C</text>
+          <text
+             x="229"
+             y="166"
+             id="text263">A</text>
+          <text
+             x="246"
+             y="158"
+             id="text265">G</text>
+          <text
+             x="262"
+             y="151"
+             id="text267">U</text>
+          <text
+             x="280"
+             y="146"
+             id="text269">C</text>
+          <text
+             x="297"
+             y="142"
+             id="text271">A</text>
+          <text
+             x="316"
+             y="140"
+             id="text273">G</text>
+        </g>
+        <g
+           font-size="40px"
+           id="g301">
+          <text
+             x="457"
+             y="359"
+             id="text277">U</text>
+          <text
+             x="298"
+             y="466"
+             id="text279">U</text>
+          <text
+             x="192"
+             y="307"
+             id="text281">U</text>
+          <text
+             x="212"
+             y="259"
+             id="text283">C</text>
+          <text
+             x="437"
+             y="409"
+             id="text285">C</text>
+          <text
+             x="250"
+             y="446"
+             id="text287">C</text>
+          <text
+             x="400"
+             y="446"
+             id="text289">A</text>
+          <text
+             x="249"
+             y="222"
+             id="text291">A</text>
+          <text
+             x="212"
+             y="409"
+             id="text293">A</text>
+          <text
+             x="299"
+             y="202"
+             id="text295">G</text>
+          <text
+             x="192"
+             y="360"
+             id="text297">G</text>
+          <text
+             x="351"
+             y="467"
+             id="text299">G</text>
+        </g>
+      </g>
+      <g
+         fill="#e42322"
+         font-family="'Liberation Sans'"
+         font-size="15px"
+         font-weight="bold"
+         text-anchor="middle"
+         id="g315">
+        <text
+           x="325"
+           y="325"
+           id="text305">5´</text>
+        <text
+           x="596"
+           y="325"
+           id="text307">3´</text>
+        <text
+           x="57"
+           y="325"
+           id="text309">3´</text>
+        <text
+           x="327"
+           y="55"
+           id="text311">3´</text>
+        <text
+           x="327"
+           y="596"
+           id="text313">3´</text>
+      </g>
+      <g
+         font-family="'Liberation Sans'"
+         font-size="16px"
+         text-anchor="middle"
+         id="g431">
+        <text
+           x="85"
+           y="347"
+           id="text317">Arg (R)</text>
+        <text
+           x="95"
+           y="394"
+           id="text319">Ser (S)</text>
+        <text
+           x="110"
+           y="438"
+           id="text321">Lys (K)</text>
+        <text
+           id="text327"><tspan
+             x="136"
+             y="470"
+             id="tspan323">Asn</tspan><tspan
+             x="136"
+             y="490"
+             id="tspan325">(N)</tspan></text>
+        <text
+           id="text333"><tspan
+             x="191"
+             y="517"
+             id="tspan329">Thr</tspan><tspan
+             x="191"
+             y="535"
+             id="tspan331">(T)</tspan></text>
+        <text
+           transform="rotate(-69.525)"
+           x="-418.75659"
+           y="424.67981"
+           id="text335">Met (M)</text>
+        <text
+           id="text341"><tspan
+             x="290"
+             y="555"
+             id="tspan337">Ile</tspan><tspan
+             x="290"
+             y="575"
+             id="tspan339">(I)</tspan></text>
+        <text
+           id="text347"><tspan
+             x="371"
+             y="554"
+             id="tspan343">Arg</tspan><tspan
+             x="371"
+             y="572"
+             id="tspan345">(R)</tspan></text>
+        <text
+           id="text353"><tspan
+             x="439"
+             y="530"
+             id="tspan349">Gln</tspan><tspan
+             x="439"
+             y="548"
+             id="tspan351">(Q)</tspan></text>
+        <text
+           id="text359"><tspan
+             x="477"
+             y="503"
+             id="tspan355">His</tspan><tspan
+             x="477"
+             y="521"
+             id="tspan357">(H)</tspan></text>
+        <text
+           id="text365"><tspan
+             x="527"
+             y="449"
+             id="tspan361">Pro</tspan><tspan
+             x="527"
+             y="467"
+             id="tspan363">(P)</tspan></text>
+        <text
+           id="text371"><tspan
+             x="558"
+             y="360"
+             id="tspan367">Leu</tspan><tspan
+             x="558"
+             y="378"
+             id="tspan369">(L)</tspan></text>
+        <text
+           x="561"
+           y="313"
+           id="text373">Trp (W)</text>
+        <text
+           x="555"
+           y="255"
+           id="text375">Cys (C)</text>
+        <text
+           id="text381"><tspan
+             x="512"
+             y="163"
+             id="tspan377">Tyr</tspan><tspan
+             x="512"
+             y="181"
+             id="tspan379">(Y)</tspan></text>
+        <text
+           id="text387"><tspan
+             x="459"
+             y="116"
+             id="tspan383">Ser</tspan><tspan
+             x="459"
+             y="134"
+             id="tspan385">(S)</tspan></text>
+        <text
+           id="text393"><tspan
+             x="395"
+             y="88"
+             id="tspan389">Leu</tspan><tspan
+             x="395"
+             y="108"
+             id="tspan391">(L)</tspan></text>
+        <text
+           id="text399"><tspan
+             x="349"
+             y="79"
+             id="tspan395">Phe</tspan><tspan
+             x="349"
+             y="97"
+             id="tspan397">(F)</tspan></text>
+        <text
+           id="text405"><tspan
+             x="278"
+             y="84"
+             id="tspan401">Gly</tspan><tspan
+             x="278"
+             y="102"
+             id="tspan403">(G)</tspan></text>
+        <text
+           id="text411"><tspan
+             x="212"
+             y="104"
+             id="tspan407">Glu</tspan><tspan
+             x="212"
+             y="124"
+             id="tspan409">(E)</tspan></text>
+        <text
+           id="text417"><tspan
+             x="173"
+             y="131"
+             id="tspan413">Asp</tspan><tspan
+             x="173"
+             y="149"
+             id="tspan415">(D)</tspan></text>
+        <text
+           id="text423"><tspan
+             x="126"
+             y="183"
+             id="tspan419">Ala</tspan><tspan
+             x="126"
+             y="201"
+             id="tspan421">(A)</tspan></text>
+        <text
+           id="text429"><tspan
+             x="87"
+             y="272"
+             id="tspan425">Val</tspan><tspan
+             x="87"
+             y="292"
+             id="tspan427">(V)</tspan></text>
+      </g>
+      <text
+         x="577"
+         y="588"
+         font-family="'DejaVu Sans'"
+         font-size="20px"
+         id="text433">Start</text>
+      <text
+         x="577"
+         y="610"
+         font-family="'DejaVu Sans'"
+         font-size="20px"
+         id="text435">Stop</text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="27.607138"
+     y="28.113512"
+     id="text3446"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan3444"
+       x="27.607138"
+       y="28.113512"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">a)</tspan></text>
+</svg>
