@@ -10,7 +10,21 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata288">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview441"
      pagecolor="#ffffff"
@@ -22,20 +36,15 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.3640625"
-     inkscape:cx="421.53494"
-     inkscape:cy="202.70332"
+     inkscape:zoom="2"
+     inkscape:cx="326.5"
+     inkscape:cy="181.75"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1920"
-     inkscape:window-y="120"
+     inkscape:window-height="1139"
+     inkscape:window-x="3840"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg439">
-    <sodipodi:guide
-       position="283.45593,429.78451"
-       orientation="1,0"
-       id="guide19188" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg439" />
   <defs
      id="defs5">
     <marker
@@ -54,16 +63,17 @@
   </defs>
   <g
      id="g1484"
-     transform="matrix(0.44041234,0,0,0.49630264,-0.06161055,-4.1856945)"
+     transform="matrix(0.47142656,0,0,0.49630264,-19.45725,-4.1856945)"
      inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
      inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300">
+     inkscape:export-ydpi="300"
+     style="stroke-width:0.96654642">
     <circle
        cx="325"
        cy="320"
        r="280"
-       fill="#f6f6f6"
-       id="circle7" />
+       id="circle7"
+       style="fill:#f6f6f6;stroke-width:0.93421197" />
     <use
        transform="rotate(180,325,320)"
        xlink:href="#c"
@@ -71,37 +81,40 @@
        x="0"
        y="0"
        width="100%"
-       height="100%" />
+       height="100%"
+       style="stroke-width:0.96654642" />
     <g
        id="c"
-       stroke="#000000">
+       style="stroke:#000000;stroke-width:0.93421197">
       <g
-         id="d">
+         id="d"
+         style="stroke-width:0.96654642">
         <g
            id="e"
-           stroke="#000000">
+           style="stroke:#000000;stroke-width:0.96654642">
           <g
-             id="f">
+             id="f"
+             style="stroke-width:0.96654642">
             <path
                d="m 325,320 v 200 a 200,200 0 0 0 19.604,-0.96289 z"
-               fill="#83d0f0"
-               stroke="#000000"
-               id="path11" />
+               id="path11"
+               inkscape:connector-curvature="0"
+               style="fill:#83d0f0;stroke:#000000;stroke-width:0.96654642" />
             <path
                d="m 325,320 19.603,199.04 a 200,200 0 0 0 19.415,-2.8797 z"
-               fill="#f19fc1"
-               stroke="#000000"
-               id="path13" />
+               id="path13"
+               inkscape:connector-curvature="0"
+               style="fill:#f19fc1;stroke:#000000;stroke-width:0.96654642" />
             <path
                d="m 325,320 39.018,196.16 a 200,200 0 0 0 19.039,-4.7688 z"
-               fill="#fff59a"
-               stroke="#000000"
-               id="path15" />
+               id="path15"
+               inkscape:connector-curvature="0"
+               style="fill:#fff59a;stroke:#000000;stroke-width:0.96654642" />
             <path
                d="m 325,320 58.057,191.39 a 200,200 0 0 0 18.48,-6.612 z"
-               fill="#8fc796"
-               stroke="#000000"
-               id="path17" />
+               id="path17"
+               inkscape:connector-curvature="0"
+               style="fill:#8fc796;stroke:#000000;stroke-width:0.96654642" />
           </g>
           <use
              transform="rotate(-22.5,325,320)"
@@ -110,7 +123,8 @@
              x="0"
              y="0"
              width="100%"
-             height="100%" />
+             height="100%"
+             style="stroke-width:0.96654642" />
         </g>
         <use
            transform="rotate(-45,325,320)"
@@ -119,7 +133,8 @@
            x="0"
            y="0"
            width="100%"
-           height="100%" />
+           height="100%"
+           style="stroke-width:0.96654642" />
       </g>
       <use
          transform="rotate(-90,325,320)"
@@ -128,7 +143,8 @@
          x="0"
          y="0"
          width="100%"
-         height="100%" />
+         height="100%"
+         style="stroke-width:0.96654642" />
     </g>
     <use
        transform="rotate(180,325,320)"
@@ -137,35 +153,37 @@
        x="0"
        y="0"
        width="100%"
-       height="100%" />
+       height="100%"
+       style="stroke-width:0.96654642" />
     <g
-       stroke="#000000"
-       id="g99">
+       id="g99"
+       style="stroke:#000000;stroke-width:0.93421197">
       <g
          id="a"
-         stroke="#000000">
+         style="stroke:#000000;stroke-width:0.96654642">
         <g
-           id="b">
+           id="b"
+           style="stroke-width:0.96654642">
           <path
              d="M 390.06,477.06 A 170,170 0 0 1 325.004,490 V 320 Z"
-             fill="#83d0f0"
-             stroke="#000000"
-             id="path31" />
+             id="path31"
+             inkscape:connector-curvature="0"
+             style="fill:#83d0f0;stroke:#000000;stroke-width:0.96654642" />
           <path
              d="m 445.21,440.2 a 170,170 0 0 1 -55.152,36.851 l -65.056,-157.06 z"
-             fill="#f19fc1"
-             stroke="#000000"
-             id="path33" />
+             id="path33"
+             inkscape:connector-curvature="0"
+             style="fill:#f19fc1;stroke:#000000;stroke-width:0.96654642" />
           <path
              d="m 482.06,385.05 a 170,170 0 0 1 -36.852,55.152 l -120.21,-120.21 z"
-             fill="#fff59a"
-             stroke="#000000"
-             id="path35" />
+             id="path35"
+             inkscape:connector-curvature="0"
+             style="fill:#fff59a;stroke:#000000;stroke-width:0.96654642" />
           <path
              d="m 495,320 a 170,170 0 0 1 -12.941,65.056 L 324.999,320 Z"
-             fill="#8fc796"
-             stroke="#000000"
-             id="path37" />
+             id="path37"
+             inkscape:connector-curvature="0"
+             style="fill:#8fc796;stroke:#000000;stroke-width:0.96654642" />
         </g>
         <use
            transform="rotate(-90,325.01,320)"
@@ -174,110 +192,156 @@
            x="0"
            y="0"
            width="100%"
-           height="100%" />
+           height="100%"
+           style="stroke-width:0.96654642" />
       </g>
       <g
-         id="g51">
+         id="g51"
+         style="stroke-width:0.96654642">
         <path
            d="M 425,320 A 100,100 0 0 1 325,420 V 320 Z"
-           fill="#fff59a"
-           stroke-width="1.2"
-           id="path43" />
+           id="path43"
+           inkscape:connector-curvature="0"
+           style="fill:#fff59a;stroke-width:1.15985572" />
         <path
            d="M 325,420 A 100,100 0 0 1 225,320 h 100 z"
-           fill="#f19fc1"
-           id="path45" />
+           id="path45"
+           inkscape:connector-curvature="0"
+           style="fill:#f19fc1;stroke-width:0.96654642" />
         <path
            d="M 225,320 A 100,100 0 0 1 325,220 v 100 z"
-           fill="#83d0f0"
-           id="path47" />
+           id="path47"
+           inkscape:connector-curvature="0"
+           style="fill:#83d0f0;stroke-width:0.96654642" />
         <path
            d="M 325,220 A 100,100 0 0 1 425,320 H 325 Z"
-           fill="#8fc796"
-           id="path49" />
+           id="path49"
+           inkscape:connector-curvature="0"
+           style="fill:#8fc796;stroke-width:0.96654642" />
       </g>
       <g
-         fill="none"
-         id="g97">
+         id="g97"
+         style="fill:none;stroke-width:0.96654642">
         <path
            d="M 364.02,123.84 379.626,45.38"
-           id="path53" />
+           id="path53"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 401.54,135.22 432.153,61.312"
-           id="path55" />
+           id="path55"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 466.42,178.58 56.566,-56.567"
-           id="path57" />
+           id="path57"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 491.3,208.89 66.515,-44.444"
-           id="path59" />
+           id="path59"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 501.39,225.72 70.551,-37.711"
-           id="path61" />
+           id="path61"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 509.78,243.46 73.907,-30.614"
-           id="path63" />
+           id="path63"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 521.16,280.98 78.46,-15.607"
-           id="path65" />
+           id="path65"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 524.04,300.4 79.611,-7.8415"
-           id="path67" />
+           id="path67"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 509.78,396.54 73.908,30.613"
-           id="path69" />
+           id="path69"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 466.42,461.42 56.567,56.566"
-           id="path71" />
+           id="path71"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 436.11,486.3 44.444,66.515"
-           id="path73" />
+           id="path73"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 401.54,504.78 30.614,73.907"
-           id="path75" />
+           id="path75"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 266.94,511.39 -23.221,76.552"
-           id="path77" />
+           id="path77"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 248.46,504.78 -30.613,73.908"
-           id="path79" />
+           id="path79"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="m 183.58,461.42 -56.566,56.567"
-           id="path81" />
+           id="path81"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 158.7,431.11 92.185,475.554"
-           id="path83" />
+           id="path83"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 140.22,396.54 66.313,427.154"
-           id="path85" />
+           id="path85"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 128.84,359.02 50.38,374.627"
-           id="path87" />
+           id="path87"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 140.22,243.46 66.313,212.847"
-           id="path89" />
+           id="path89"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 183.58,178.58 127.013,122.014"
-           id="path91" />
+           id="path91"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 213.89,153.7 169.446,87.185"
-           id="path93" />
+           id="path93"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
         <path
            d="M 248.46,135.22 217.846,61.313"
-           id="path95" />
+           id="path95"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.96654642" />
       </g>
     </g>
     <g
-       id="i">
+       id="i"
+       style="stroke-width:0.96654642">
       <path
          id="g"
          d="m 325.01,320.01 h 16.184 91.329 101.48 51.707"
-         fill="none"
-         marker-mid="url(#h)"
-         stroke="#e42322"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="1.2" />
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#e42322;stroke-width:1.15985572;stroke-linecap:round;stroke-linejoin:round;marker-mid:url(#h)" />
       <use
          transform="rotate(-90,325,320)"
          xlink:href="#g"
@@ -285,7 +349,8 @@
          x="0"
          y="0"
          width="100%"
-         height="100%" />
+         height="100%"
+         style="stroke-width:0.96654642" />
     </g>
     <use
        transform="rotate(180,325,320)"
@@ -294,623 +359,778 @@
        x="0"
        y="0"
        width="100%"
-       height="100%" />
+       height="100%"
+       style="stroke-width:0.96654642" />
     <g
-       stroke="#000000"
-       id="g125">
+       id="g125"
+       style="stroke:#000000;stroke-width:0.93421197">
       <circle
          cx="325"
          cy="320"
          r="10"
-         fill="#ffffff"
-         id="circle107" />
+         id="circle107"
+         style="fill:#ffffff;stroke-width:0.96654642" />
       <g
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="1.2"
-         id="g123">
+         id="g123"
+         style="stroke-width:1.15985572;stroke-linecap:round;stroke-linejoin:round">
         <g
-           id="g117">
+           id="g117"
+           style="stroke-width:1.15985572">
           <path
              d="m 222.03,580.18 14.183,-12.036 3.3319,18.3 z"
-             id="path109" />
+             id="path109"
+             inkscape:connector-curvature="0"
+             style="stroke-width:1.15985572" />
           <rect
              x="555.23999"
              y="277.98001"
              width="13"
              height="13"
-             id="rect111" />
+             id="rect111"
+             style="stroke-width:1.15985572" />
           <rect
              x="535.53003"
              y="211.03999"
              width="13"
              height="13"
-             id="rect113" />
+             id="rect113"
+             style="stroke-width:1.15985572" />
           <rect
              x="524.13"
              y="190.97"
              width="13"
              height="13"
-             id="rect115" />
+             id="rect115"
+             style="stroke-width:1.15985572" />
         </g>
         <rect
            x="552.54999"
            y="596.64001"
            width="18"
            height="18"
-           id="rect119" />
+           id="rect119"
+           style="stroke-width:1.15985572" />
         <path
            d="m 552.55,590.66 v -18 l 15.588,9 z"
-           id="path121" />
+           id="path121"
+           inkscape:connector-curvature="0"
+           style="stroke-width:1.15985572" />
       </g>
     </g>
     <g
-       id="g437">
+       id="g437"
+       style="stroke-width:0.96654642">
       <g
-         font-family="'DejaVu Sans'"
          font-weight="bold"
-         text-anchor="middle"
-         id="g303">
+         id="g303"
+         style="font-weight:bold;font-family:'DejaVu Sans';text-anchor:middle;stroke-width:0.96654642">
         <g
            font-size="50px"
-           id="g135">
+           id="g135"
+           style="font-size:50px;stroke-width:0.96654642">
           <text
              x="283"
              y="295"
-             id="text127">G</text>
+             id="text127"
+             style="stroke-width:0.966546">G</text>
           <text
              x="367"
              y="295"
-             id="text129">U</text>
+             id="text129"
+             style="stroke-width:0.966546">U</text>
           <text
              x="282"
              y="380"
-             id="text131">A</text>
+             id="text131"
+             style="stroke-width:0.966546">A</text>
           <text
              x="367"
              y="380"
-             id="text133">C</text>
+             id="text133"
+             style="stroke-width:0.966546">C</text>
         </g>
         <g
            font-size="40px"
-           id="g145">
+           id="g145"
+           style="font-size:40px;stroke-width:0.96654642">
           <text
              x="351"
              y="201"
-             id="text137">U</text>
+             id="text137"
+             style="stroke-width:0.966546">U</text>
           <text
              x="400"
              y="222"
-             id="text139">C</text>
+             id="text139"
+             style="stroke-width:0.966546">C</text>
           <text
              x="437"
              y="259"
-             id="text141">A</text>
+             id="text141"
+             style="stroke-width:0.966546">A</text>
           <text
              x="458"
              y="308"
-             id="text143">G</text>
+             id="text143"
+             style="stroke-width:0.966546">G</text>
         </g>
         <g
            font-size="15px"
-           id="g275">
+           id="g275"
+           style="font-size:15px;stroke-width:0.96654642">
           <text
              x="334"
              y="140"
-             id="text147">U</text>
+             id="text147"
+             style="stroke-width:0.966546">U</text>
           <text
              x="352"
              y="142"
-             id="text149">C</text>
+             id="text149"
+             style="stroke-width:0.966546">C</text>
           <text
              x="369"
              y="146"
-             id="text151">A</text>
+             id="text151"
+             style="stroke-width:0.966546">A</text>
           <text
              x="387"
              y="151"
-             id="text153">G</text>
+             id="text153"
+             style="stroke-width:0.966546">G</text>
           <text
              x="404"
              y="158"
-             id="text155">U</text>
+             id="text155"
+             style="stroke-width:0.966546">U</text>
           <text
              x="419"
              y="166"
-             id="text157">C</text>
+             id="text157"
+             style="stroke-width:0.966546">C</text>
           <text
              x="434"
              y="176"
-             id="text159">A</text>
+             id="text159"
+             style="stroke-width:0.966546">A</text>
           <text
              x="449"
              y="188"
-             id="text161">G</text>
+             id="text161"
+             style="stroke-width:0.966546">G</text>
           <text
              x="462"
              y="201"
-             id="text163">U</text>
+             id="text163"
+             style="stroke-width:0.966546">U</text>
           <text
              x="473"
              y="214"
-             id="text165">C</text>
+             id="text165"
+             style="stroke-width:0.966546">C</text>
           <text
              x="483"
              y="230"
-             id="text167">A</text>
+             id="text167"
+             style="stroke-width:0.966546">A</text>
           <text
              x="492"
              y="246"
-             id="text169">G</text>
+             id="text169"
+             style="stroke-width:0.966546">G</text>
           <text
              x="501"
              y="264"
-             id="text171">U</text>
+             id="text171"
+             style="stroke-width:0.966546">U</text>
           <text
              x="504"
              y="280"
-             id="text173">C</text>
+             id="text173"
+             style="stroke-width:0.966546">C</text>
           <text
              x="507"
              y="298"
-             id="text175">A</text>
+             id="text175"
+             style="stroke-width:0.966546">A</text>
           <text
              x="509"
              y="316"
-             id="text177">G</text>
+             id="text177"
+             style="stroke-width:0.966546">G</text>
           <text
              x="509"
              y="334"
-             id="text179">U</text>
+             id="text179"
+             style="stroke-width:0.966546">U</text>
           <text
              x="508"
              y="353"
-             id="text181">C</text>
+             id="text181"
+             style="stroke-width:0.966546">C</text>
           <text
              x="504"
              y="370"
-             id="text183">A</text>
+             id="text183"
+             style="stroke-width:0.966546">A</text>
           <text
              x="499"
              y="387"
-             id="text185">G</text>
+             id="text185"
+             style="stroke-width:0.966546">G</text>
           <text
              x="493"
              y="405"
-             id="text187">U</text>
+             id="text187"
+             style="stroke-width:0.966546">U</text>
           <text
              x="483"
              y="421"
-             id="text189">C</text>
+             id="text189"
+             style="stroke-width:0.966546">C</text>
           <text
              x="474"
              y="435"
-             id="text191">A</text>
+             id="text191"
+             style="stroke-width:0.966546">A</text>
           <text
              x="462"
              y="450"
-             id="text193">G</text>
+             id="text193"
+             style="stroke-width:0.966546">G</text>
           <text
              x="449"
              y="463"
-             id="text195">U</text>
+             id="text195"
+             style="stroke-width:0.966546">U</text>
           <text
              x="436"
              y="476"
-             id="text197">C</text>
+             id="text197"
+             style="stroke-width:0.966546">C</text>
           <text
              x="420"
              y="484"
-             id="text199">A</text>
+             id="text199"
+             style="stroke-width:0.966546">A</text>
           <text
              x="404"
              y="492"
-             id="text201">G</text>
+             id="text201"
+             style="stroke-width:0.966546">G</text>
           <text
              x="387"
              y="500"
-             id="text203">U</text>
+             id="text203"
+             style="stroke-width:0.966546">U</text>
           <text
              x="370"
              y="505"
-             id="text205">C</text>
+             id="text205"
+             style="stroke-width:0.966546">C</text>
           <text
              x="352"
              y="508"
-             id="text207">A</text>
+             id="text207"
+             style="stroke-width:0.966546">A</text>
           <text
              x="334"
              y="510"
-             id="text209">G</text>
+             id="text209"
+             style="stroke-width:0.966546">G</text>
           <text
              x="315"
              y="510"
-             id="text211">U</text>
+             id="text211"
+             style="stroke-width:0.966546">U</text>
           <text
              x="297"
              y="509"
-             id="text213">C</text>
+             id="text213"
+             style="stroke-width:0.966546">C</text>
           <text
              x="280"
              y="504"
-             id="text215">A</text>
+             id="text215"
+             style="stroke-width:0.966546">A</text>
           <text
              x="262"
              y="499"
-             id="text217">G</text>
+             id="text217"
+             style="stroke-width:0.966546">G</text>
           <text
              x="245"
              y="492"
-             id="text219">U</text>
+             id="text219"
+             style="stroke-width:0.966546">U</text>
           <text
              x="229"
              y="485"
-             id="text221">C</text>
+             id="text221"
+             style="stroke-width:0.966546">C</text>
           <text
              x="214"
              y="474"
-             id="text223">A</text>
+             id="text223"
+             style="stroke-width:0.966546">A</text>
           <text
              x="200"
              y="462"
-             id="text225">G</text>
+             id="text225"
+             style="stroke-width:0.966546">G</text>
           <text
              x="187"
              y="449"
-             id="text227">U</text>
+             id="text227"
+             style="stroke-width:0.966546">U</text>
           <text
              x="176"
              y="435"
-             id="text229">C</text>
+             id="text229"
+             style="stroke-width:0.966546">C</text>
           <text
              x="166"
              y="420"
-             id="text231">A</text>
+             id="text231"
+             style="stroke-width:0.966546">A</text>
           <text
              x="157"
              y="404"
-             id="text233">G</text>
+             id="text233"
+             style="stroke-width:0.966546">G</text>
           <text
              x="150"
              y="387"
-             id="text235">U</text>
+             id="text235"
+             style="stroke-width:0.966546">U</text>
           <text
              x="145"
              y="370"
-             id="text237">C</text>
+             id="text237"
+             style="stroke-width:0.966546">C</text>
           <text
              x="142"
              y="352"
-             id="text239">A</text>
+             id="text239"
+             style="stroke-width:0.966546">A</text>
           <text
              x="140"
              y="334"
-             id="text241">G</text>
+             id="text241"
+             style="stroke-width:0.966546">G</text>
           <text
              x="140"
              y="316"
-             id="text243">U</text>
+             id="text243"
+             style="stroke-width:0.966546">U</text>
           <text
              x="141"
              y="298"
-             id="text245">C</text>
+             id="text245"
+             style="stroke-width:0.966546">C</text>
           <text
              x="145"
              y="280"
-             id="text247">A</text>
+             id="text247"
+             style="stroke-width:0.966546">A</text>
           <text
              x="150"
              y="263"
-             id="text249">G</text>
+             id="text249"
+             style="stroke-width:0.966546">G</text>
           <text
              x="157"
              y="246"
-             id="text251">U</text>
+             id="text251"
+             style="stroke-width:0.966546">U</text>
           <text
              x="165"
              y="230"
-             id="text253">C</text>
+             id="text253"
+             style="stroke-width:0.966546">C</text>
           <text
              x="176"
              y="215"
-             id="text255">A</text>
+             id="text255"
+             style="stroke-width:0.966546">A</text>
           <text
              x="188"
              y="201"
-             id="text257">G</text>
+             id="text257"
+             style="stroke-width:0.966546">G</text>
           <text
              x="200"
              y="188"
-             id="text259">U</text>
+             id="text259"
+             style="stroke-width:0.966546">U</text>
           <text
              x="214"
              y="176"
-             id="text261">C</text>
+             id="text261"
+             style="stroke-width:0.966546">C</text>
           <text
              x="229"
              y="166"
-             id="text263">A</text>
+             id="text263"
+             style="stroke-width:0.966546">A</text>
           <text
              x="246"
              y="158"
-             id="text265">G</text>
+             id="text265"
+             style="stroke-width:0.966546">G</text>
           <text
              x="262"
              y="151"
-             id="text267">U</text>
+             id="text267"
+             style="stroke-width:0.966546">U</text>
           <text
              x="280"
              y="146"
-             id="text269">C</text>
+             id="text269"
+             style="stroke-width:0.966546">C</text>
           <text
              x="297"
              y="142"
-             id="text271">A</text>
+             id="text271"
+             style="stroke-width:0.966546">A</text>
           <text
              x="316"
              y="140"
-             id="text273">G</text>
+             id="text273"
+             style="stroke-width:0.966546">G</text>
         </g>
         <g
            font-size="40px"
-           id="g301">
+           id="g301"
+           style="font-size:40px;stroke-width:0.96654642">
           <text
              x="457"
              y="359"
-             id="text277">U</text>
+             id="text277"
+             style="stroke-width:0.966546">U</text>
           <text
              x="298"
              y="466"
-             id="text279">U</text>
+             id="text279"
+             style="stroke-width:0.966546">U</text>
           <text
              x="192"
              y="307"
-             id="text281">U</text>
+             id="text281"
+             style="stroke-width:0.966546">U</text>
           <text
              x="212"
              y="259"
-             id="text283">C</text>
+             id="text283"
+             style="stroke-width:0.966546">C</text>
           <text
              x="437"
              y="409"
-             id="text285">C</text>
+             id="text285"
+             style="stroke-width:0.966546">C</text>
           <text
              x="250"
              y="446"
-             id="text287">C</text>
+             id="text287"
+             style="stroke-width:0.966546">C</text>
           <text
              x="400"
              y="446"
-             id="text289">A</text>
+             id="text289"
+             style="stroke-width:0.966546">A</text>
           <text
              x="249"
              y="222"
-             id="text291">A</text>
+             id="text291"
+             style="stroke-width:0.966546">A</text>
           <text
              x="212"
              y="409"
-             id="text293">A</text>
+             id="text293"
+             style="stroke-width:0.966546">A</text>
           <text
              x="299"
              y="202"
-             id="text295">G</text>
+             id="text295"
+             style="stroke-width:0.966546">G</text>
           <text
              x="192"
              y="360"
-             id="text297">G</text>
+             id="text297"
+             style="stroke-width:0.966546">G</text>
           <text
              x="351"
              y="467"
-             id="text299">G</text>
+             id="text299"
+             style="stroke-width:0.966546">G</text>
         </g>
       </g>
       <g
-         fill="#e42322"
-         font-family="'Liberation Sans'"
          font-size="15px"
          font-weight="bold"
-         text-anchor="middle"
-         id="g315">
+         id="g315"
+         style="font-weight:bold;font-size:15px;font-family:'Liberation Sans';text-anchor:middle;fill:#e42322;stroke-width:0.96654642">
         <text
            x="325"
            y="325"
-           id="text305">5´</text>
+           id="text305"
+           style="stroke-width:0.966546">5´</text>
         <text
            x="596"
            y="325"
-           id="text307">3´</text>
+           id="text307"
+           style="stroke-width:0.966546">3´</text>
         <text
            x="57"
            y="325"
-           id="text309">3´</text>
+           id="text309"
+           style="stroke-width:0.966546">3´</text>
         <text
            x="327"
            y="55"
-           id="text311">3´</text>
+           id="text311"
+           style="stroke-width:0.966546">3´</text>
         <text
            x="327"
            y="596"
-           id="text313">3´</text>
+           id="text313"
+           style="stroke-width:0.966546">3´</text>
       </g>
       <g
-         font-family="'Liberation Sans'"
          font-size="16px"
-         text-anchor="middle"
-         id="g431">
+         id="g431"
+         style="font-size:16px;font-family:'Liberation Sans';text-anchor:middle;stroke-width:0.96654642">
         <text
            x="85"
            y="347"
-           id="text317">Arg (R)</text>
+           id="text317"
+           style="stroke-width:0.966546">Arg (R)</text>
         <text
            x="95"
            y="394"
-           id="text319">Ser (S)</text>
+           id="text319"
+           style="stroke-width:0.966546">Ser (S)</text>
         <text
            x="110"
            y="438"
-           id="text321">Lys (K)</text>
+           id="text321"
+           style="stroke-width:0.966546">Lys (K)</text>
         <text
-           id="text327"><tspan
+           id="text327"
+           style="stroke-width:0.966546"><tspan
              x="136"
              y="470"
-             id="tspan323">Asn</tspan><tspan
+             id="tspan323"
+             style="stroke-width:0.966546">Asn</tspan><tspan
              x="136"
              y="490"
-             id="tspan325">(N)</tspan></text>
+             id="tspan325"
+             style="stroke-width:0.966546">(N)</tspan></text>
         <text
-           id="text333"><tspan
+           id="text333"
+           style="stroke-width:0.966546"><tspan
              x="191"
              y="517"
-             id="tspan329">Thr</tspan><tspan
+             id="tspan329"
+             style="stroke-width:0.966546">Thr</tspan><tspan
              x="191"
              y="535"
-             id="tspan331">(T)</tspan></text>
+             id="tspan331"
+             style="stroke-width:0.966546">(T)</tspan></text>
         <text
            transform="rotate(-69.525)"
            x="-418.75659"
            y="424.67981"
-           id="text335">Met (M)</text>
+           id="text335"
+           style="stroke-width:0.966546">Met (M)</text>
         <text
-           id="text341"><tspan
+           id="text341"
+           style="stroke-width:0.966546"><tspan
              x="290"
              y="555"
-             id="tspan337">Ile</tspan><tspan
+             id="tspan337"
+             style="stroke-width:0.966546">Ile</tspan><tspan
              x="290"
              y="575"
-             id="tspan339">(I)</tspan></text>
+             id="tspan339"
+             style="stroke-width:0.966546">(I)</tspan></text>
         <text
-           id="text347"><tspan
+           id="text347"
+           style="stroke-width:0.966546"><tspan
              x="371"
              y="554"
-             id="tspan343">Arg</tspan><tspan
+             id="tspan343"
+             style="stroke-width:0.966546">Arg</tspan><tspan
              x="371"
              y="572"
-             id="tspan345">(R)</tspan></text>
+             id="tspan345"
+             style="stroke-width:0.966546">(R)</tspan></text>
         <text
-           id="text353"><tspan
+           id="text353"
+           style="stroke-width:0.966546"><tspan
              x="439"
              y="530"
-             id="tspan349">Gln</tspan><tspan
+             id="tspan349"
+             style="stroke-width:0.966546">Gln</tspan><tspan
              x="439"
              y="548"
-             id="tspan351">(Q)</tspan></text>
+             id="tspan351"
+             style="stroke-width:0.966546">(Q)</tspan></text>
         <text
-           id="text359"><tspan
+           id="text359"
+           style="stroke-width:0.966546"><tspan
              x="477"
              y="503"
-             id="tspan355">His</tspan><tspan
+             id="tspan355"
+             style="stroke-width:0.966546">His</tspan><tspan
              x="477"
              y="521"
-             id="tspan357">(H)</tspan></text>
+             id="tspan357"
+             style="stroke-width:0.966546">(H)</tspan></text>
         <text
-           id="text365"><tspan
+           id="text365"
+           style="stroke-width:0.966546"><tspan
              x="527"
              y="449"
-             id="tspan361">Pro</tspan><tspan
+             id="tspan361"
+             style="stroke-width:0.966546">Pro</tspan><tspan
              x="527"
              y="467"
-             id="tspan363">(P)</tspan></text>
+             id="tspan363"
+             style="stroke-width:0.966546">(P)</tspan></text>
         <text
-           id="text371"><tspan
+           id="text371"
+           style="stroke-width:0.966546"><tspan
              x="558"
              y="360"
-             id="tspan367">Leu</tspan><tspan
+             id="tspan367"
+             style="stroke-width:0.966546">Leu</tspan><tspan
              x="558"
              y="378"
-             id="tspan369">(L)</tspan></text>
+             id="tspan369"
+             style="stroke-width:0.966546">(L)</tspan></text>
         <text
            x="561"
            y="313"
-           id="text373">Trp (W)</text>
+           id="text373"
+           style="stroke-width:0.966546">Trp (W)</text>
         <text
            x="555"
            y="255"
-           id="text375">Cys (C)</text>
+           id="text375"
+           style="stroke-width:0.966546">Cys (C)</text>
         <text
-           id="text381"><tspan
+           id="text381"
+           style="stroke-width:0.966546"><tspan
              x="512"
              y="163"
-             id="tspan377">Tyr</tspan><tspan
+             id="tspan377"
+             style="stroke-width:0.966546">Tyr</tspan><tspan
              x="512"
              y="181"
-             id="tspan379">(Y)</tspan></text>
+             id="tspan379"
+             style="stroke-width:0.966546">(Y)</tspan></text>
         <text
-           id="text387"><tspan
+           id="text387"
+           style="stroke-width:0.966546"><tspan
              x="459"
              y="116"
-             id="tspan383">Ser</tspan><tspan
+             id="tspan383"
+             style="stroke-width:0.966546">Ser</tspan><tspan
              x="459"
              y="134"
-             id="tspan385">(S)</tspan></text>
+             id="tspan385"
+             style="stroke-width:0.966546">(S)</tspan></text>
         <text
-           id="text393"><tspan
+           id="text393"
+           style="stroke-width:0.966546"><tspan
              x="395"
              y="88"
-             id="tspan389">Leu</tspan><tspan
+             id="tspan389"
+             style="stroke-width:0.966546">Leu</tspan><tspan
              x="395"
              y="108"
-             id="tspan391">(L)</tspan></text>
+             id="tspan391"
+             style="stroke-width:0.966546">(L)</tspan></text>
         <text
-           id="text399"><tspan
+           id="text399"
+           style="stroke-width:0.966546"><tspan
              x="349"
              y="79"
-             id="tspan395">Phe</tspan><tspan
+             id="tspan395"
+             style="stroke-width:0.966546">Phe</tspan><tspan
              x="349"
              y="97"
-             id="tspan397">(F)</tspan></text>
+             id="tspan397"
+             style="stroke-width:0.966546">(F)</tspan></text>
         <text
-           id="text405"><tspan
+           id="text405"
+           style="stroke-width:0.966546"><tspan
              x="278"
              y="84"
-             id="tspan401">Gly</tspan><tspan
+             id="tspan401"
+             style="stroke-width:0.966546">Gly</tspan><tspan
              x="278"
              y="102"
-             id="tspan403">(G)</tspan></text>
+             id="tspan403"
+             style="stroke-width:0.966546">(G)</tspan></text>
         <text
-           id="text411"><tspan
+           id="text411"
+           style="stroke-width:0.966546"><tspan
              x="212"
              y="104"
-             id="tspan407">Glu</tspan><tspan
+             id="tspan407"
+             style="stroke-width:0.966546">Glu</tspan><tspan
              x="212"
              y="124"
-             id="tspan409">(E)</tspan></text>
+             id="tspan409"
+             style="stroke-width:0.966546">(E)</tspan></text>
         <text
-           id="text417"><tspan
+           id="text417"
+           style="stroke-width:0.966546"><tspan
              x="173"
              y="131"
-             id="tspan413">Asp</tspan><tspan
+             id="tspan413"
+             style="stroke-width:0.966546">Asp</tspan><tspan
              x="173"
              y="149"
-             id="tspan415">(D)</tspan></text>
+             id="tspan415"
+             style="stroke-width:0.966546">(D)</tspan></text>
         <text
-           id="text423"><tspan
+           id="text423"
+           style="stroke-width:0.966546"><tspan
              x="126"
              y="183"
-             id="tspan419">Ala</tspan><tspan
+             id="tspan419"
+             style="stroke-width:0.966546">Ala</tspan><tspan
              x="126"
              y="201"
-             id="tspan421">(A)</tspan></text>
+             id="tspan421"
+             style="stroke-width:0.966546">(A)</tspan></text>
         <text
-           id="text429"><tspan
+           id="text429"
+           style="stroke-width:0.966546"><tspan
              x="87"
              y="272"
-             id="tspan425">Val</tspan><tspan
+             id="tspan425"
+             style="stroke-width:0.966546">Val</tspan><tspan
              x="87"
              y="292"
-             id="tspan427">(V)</tspan></text>
+             id="tspan427"
+             style="stroke-width:0.966546">(V)</tspan></text>
       </g>
       <text
          x="577"
          y="588"
-         font-family="'DejaVu Sans'"
          font-size="20px"
-         id="text433">Start</text>
+         id="text433"
+         style="font-size:20px;font-family:'DejaVu Sans';stroke-width:0.966546">Start</text>
       <text
          x="577"
          y="610"
-         font-family="'DejaVu Sans'"
          font-size="20px"
-         id="text435">Stop</text>
+         id="text435"
+         style="font-size:20px;font-family:'DejaVu Sans';stroke-width:0.966546">Stop</text>
     </g>
   </g>
   <text
@@ -930,272 +1150,25 @@
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="496.38733"
-     y="45.207108"
-     id="text2756"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan2754"
-       x="496.38733"
-       y="45.207108"
-       style="font-size:13.3333px">GCUAUAAGGCUAGGUUACAGUGCAUGCAUA...</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="493.51318"
-     y="126.69767"
-     id="text2756-4"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan2754-1"
-       x="493.51318"
-       y="126.69767"
-       style="font-size:13.3333px">GCUAUAAGGCUAGG<tspan
-   style="fill:#ff0000"
-   id="tspan287860">A</tspan>UACAGUGCAUGCAUA...</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="492.10818"
-     y="203.7347"
-     id="text2756-4-1"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan2754-1-7"
-       x="492.10818"
-       y="203.7347"
-       style="font-size:13.3333px">GCUAUAAGGCUAG<tspan
-   style="fill:#ff0000"
-   id="tspan333266">A</tspan>UUACAGUGCAUGCAUA...</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="492.06775"
-     y="277.46902"
-     id="text2756-4-1-4"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan2754-1-7-9"
-       x="492.06775"
-       y="277.46902"
-       style="font-size:13.3333px">GCUAUAAGGCUAGGUUA<tspan
-   style="fill:#d40000"
-   id="tspan406173">A</tspan>AGUGCAUGCAUA...</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="310.55304"
-     y="22.627993"
+     x="309.41565"
+     y="24.815594"
      id="text30684"
      inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
      inkscape:export-xdpi="300"
      inkscape:export-ydpi="300"><tspan
        sodipodi:role="line"
        id="tspan30682"
-       x="310.55304"
-       y="22.627993"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">normal</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="488.18033"
-     y="68.521645"
-     id="text43684"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan43682"
-       x="490.29947"
-       y="68.521645"> A -   I -   R -   L -  G -   Y -   S -   A -   C -   I </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="485.48074"
-     y="152.5401"
-     id="text43684-7"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan43682-0"
-       x="487.59988"
-       y="152.5401"> A -   I -   R -   L -  G -   Y -   S -   A -   C -   I </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="486.59079"
-     y="229.19768"
-     id="text43684-7-9"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan43682-0-1"
-       x="488.70993"
-       y="229.19768"> A -   I -   R -   L -  <tspan
-   style="fill:#d40000"
-   id="tspan364419">D</tspan> -   Y -   S -   A -   C -   I </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="431.81628"
-     y="298.85263"
-     id="text43684-7-9-3"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan43682-0-1-5"
-       x="433.93542"
-       y="298.85263"> A -   I -   R -   L -  G - <tspan
-   style="fill:#d40000"
-   id="tspan430811">Stop</tspan> </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="309.13284"
-     y="45.336956"
-     id="text99842"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan99840"
-       x="309.13284"
-       y="45.336956"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">m-RNA</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="308.58051"
-     y="126.92309"
-     id="text99842-6"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan99840-0"
-       x="308.58051"
-       y="126.92309"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">m-RNA</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="309.18744"
-     y="279.3996"
-     id="text99842-6-7"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan99840-0-9"
-       x="309.18744"
-       y="279.3996"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">m-RNA</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="308.25208"
-     y="202.06505"
-     id="text99842-6-7-5"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan99840-0-9-7"
-       x="308.25208"
-       y="202.06505"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">m-RNA</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="308.94293"
-     y="66.051086"
-     id="text109864"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan109862"
-       x="308.94293"
-       y="66.051086"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Amino</tspan><tspan
-       sodipodi:role="line"
-       x="308.94293"
-       y="82.717712"
-       id="tspan109866"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Acids</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="308.87598"
-     y="147.03847"
-     id="text109864-0"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan109862-4"
-       x="308.87598"
-       y="147.03847"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Amino</tspan><tspan
-       sodipodi:role="line"
-       x="308.87598"
-       y="163.70509"
-       id="tspan109866-8"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Acids</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="307.76181"
-     y="221.7585"
-     id="text109864-0-3"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan109862-4-9"
-       x="307.76181"
-       y="221.7585"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Amino</tspan><tspan
-       sodipodi:role="line"
-       x="307.76181"
-       y="238.42513"
-       id="tspan109866-8-2"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Acids</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="307.86813"
-     y="297.9599"
-     id="text109864-0-3-4"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan109862-4-9-5"
-       x="307.86813"
-       y="297.9599"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Amino</tspan><tspan
-       sodipodi:role="line"
-       x="307.86813"
-       y="314.62653"
-       id="tspan109866-8-2-9"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Acids</tspan></text>
+       x="309.41565"
+       y="24.815594"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Normal</tspan></text>
+  <g
+     id="g5398"
+     transform="translate(0,-2.3125)" />
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
      x="503.50946"
-     y="96.137329"
+     y="93.824829"
      id="text195554"
      inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
      inkscape:export-xdpi="300"
@@ -1203,89 +1176,1889 @@
        sodipodi:role="line"
        id="tspan195552"
        x="505.6286"
-       y="96.137329"> </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="389.37997"
-     y="105.01933"
-     id="text268226"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan268224"
-       x="389.37997"
+       y="93.824829"> </tspan></text>
+  <g
+     id="g5940"
+     transform="translate(0,-5.7605162)">
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text268226"
        y="105.01933"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Synonymous mutation</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="403.71445"
-     y="181.70911"
-     id="text268226-2"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan268224-4"
-       x="403.71445"
-       y="181.70911"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Non-synonymous mutation</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="361.4563"
-     y="256.93033"
-     id="text268226-2-9"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan268224-4-2"
-       x="361.4563"
-       y="256.93033"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Premature Stop</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="291.72845"
-     y="105.42145"
-     id="text273276"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan273274"
-       x="291.72845"
+       x="385.44247"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         y="105.01933"
+         x="385.44247"
+         id="tspan268224"
+         sodipodi:role="line">Synonymous mutation</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text273276"
        y="105.42145"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">b)</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="292.15775"
-     y="182.45003"
-     id="text273276-8"
-     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan273274-6"
-       x="292.15775"
+       x="290.16595"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         y="105.42145"
+         x="290.16595"
+         id="tspan273274"
+         sodipodi:role="line">b)</tspan></text>
+  </g>
+  <g
+     id="g5946"
+     transform="translate(0,-5.3182707)">
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text268226-2"
+       y="181.70911"
+       x="401.99115"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         y="181.70911"
+         x="401.99115"
+         id="tspan268224-4"
+         sodipodi:role="line">Non-synonymous mutation</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text273276-8"
        y="182.45003"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">c)</tspan></text>
+       x="289.8765"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         y="182.45003"
+         x="289.8765"
+         id="tspan273274-6"
+         sodipodi:role="line">c)</tspan></text>
+  </g>
+  <g
+     id="g5952"
+     transform="translate(0,-3.4842459)">
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text268226-2-9"
+       y="256.93033"
+       x="360.38022"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         y="256.93033"
+         x="360.38022"
+         id="tspan268224-4-2"
+         sodipodi:role="line">Premature Stop</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text273276-8-5"
+       y="257.00711"
+       x="290.68817"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         y="257.00711"
+         x="290.68817"
+         id="tspan273274-6-4"
+         sodipodi:role="line">d)</tspan></text>
+  </g>
+  <g
+     id="g5502"
+     transform="translate(0,-5.5275875)">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="308.64847"
+       y="45.368206"
+       id="text99842"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan99840"
+         x="308.64847"
+         y="45.368206"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">m-RNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="284.34918"
+       y="64.051086"
+       id="text109864"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan109862"
+         x="284.34918"
+         y="64.051086"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Amino</tspan><tspan
+         sodipodi:role="line"
+         x="284.34918"
+         y="80.717751"
+         id="tspan109866"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Acids</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text2756-4-1-4-3"
+       y="45.177505"
+       x="358.44925"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="45.177505"
+         x="358.44925"
+         id="tspan2754-1-7-9-6"
+         sodipodi:role="line">GCU</tspan></text>
+    <a
+       transform="translate(49.497474,-314.63368)"
+       id="a1271">
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="337.40576"
+         y="359.81119"
+         id="text2756-4-1-4-5"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan2754-1-7-9-3"
+           x="337.40576"
+           y="359.81119"
+           style="font-size:13.3333px">AUA</tspan></text>
+    </a>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text2756-4-1-4-6"
+       y="45.177505"
+       x="416.79327"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="45.177505"
+         x="416.79327"
+         id="tspan2754-1-7-9-2"
+         sodipodi:role="line">AGG</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text2756-4-1-4-1"
+       y="45.177505"
+       x="444.80121"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="45.177505"
+         x="444.80121"
+         id="tspan2754-1-7-9-27"
+         sodipodi:role="line">CUA</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text2756-4-1-4-9"
+       y="45.177505"
+       x="473.64093"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="45.177505"
+         x="473.64093"
+         id="tspan2754-1-7-9-36"
+         sodipodi:role="line">GGU</tspan></text>
+    <g
+       transform="translate(49.497474,-314.63368)"
+       id="g5225">
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="452.3645"
+         y="359.81119"
+         id="text2756-4-1-4-62"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan2754-1-7-9-61"
+           x="452.3645"
+           y="359.81119"
+           style="font-size:13.3333px">UAC<tspan
+   style="fill:#d40000"
+   id="tspan406173-8" /></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="481.69553"
+         y="359.81119"
+         id="text2756-4-1-4-7"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan2754-1-7-9-9"
+           x="481.69553"
+           y="359.81119"
+           style="font-size:13.3333px">AGU</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text2756-4-1-4-0"
+       y="45.177505"
+       x="559.61682"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="45.177505"
+         x="559.61682"
+         id="tspan2754-1-7-9-23"
+         sodipodi:role="line">GCA</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text2756-4-1-4-59"
+       y="45.177505"
+       x="588.02771"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="45.177505"
+         x="588.02771"
+         id="tspan2754-1-7-9-22"
+         sodipodi:role="line">UGC</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text2756-4-1-4-73"
+       y="45.177505"
+       x="617.03033"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="45.177505"
+         x="617.03033"
+         id="tspan2754-1-7-9-612"
+         sodipodi:role="line">AUA</tspan></text>
+    <g
+       transform="translate(49.497474,-305.10623)"
+       id="g5267">
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="323.14786"
+         y="376.53186"
+         id="text43684-7-9-3-3"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan43682-0-1-5-1"
+           x="323.14786"
+           y="376.53186">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="308.74997"
+         y="377.5625"
+         id="text43684-7-9-3-4"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan43682-0-1-5-7"
+           x="308.74997"
+           y="377.5625">A</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text4992"
+         y="376.53186"
+         x="352.24335"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="376.53186"
+           x="352.24335"
+           id="tspan4990"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="380.95636"
+         y="376.53186"
+         id="text5003"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan5001"
+           x="380.95636"
+           y="376.53186">-</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5028"
+         y="376.53186"
+         x="410.07678"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="376.53186"
+           x="410.07678"
+           id="tspan5026"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="437.96753"
+         y="376.53186"
+         id="text5036"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan5034"
+           x="437.96753"
+           y="376.53186">-</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5047"
+         y="376.53186"
+         x="467.28555"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="376.53186"
+           x="467.28555"
+           id="tspan5045"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="495.85046"
+         y="376.53186"
+         id="text5063"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan5061"
+           x="495.85046"
+           y="376.53186">-</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5082"
+         y="376.53186"
+         x="524.49731"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="376.53186"
+           x="524.49731"
+           id="tspan5080"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         x="553.20569"
+         y="376.53186"
+         id="text5102"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan5100"
+           x="553.20569"
+           y="376.53186">-</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124"
+         y="377.5625"
+         x="308.74997"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.5625"
+           x="308.74997"
+           id="tspan5122"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-6"
+         y="377.56201"
+         x="337.4025"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.56201"
+           x="337.4025"
+           id="tspan5122-1"
+           sodipodi:role="line">I</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-0"
+         y="377.56201"
+         x="366.33878"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.56201"
+           x="366.33878"
+           id="tspan5122-6"
+           sodipodi:role="line">R</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-3"
+         y="377.56201"
+         x="395.00427"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.56201"
+           x="395.00427"
+           id="tspan5122-2"
+           sodipodi:role="line">L</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-06"
+         y="377.3732"
+         x="424.1109"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.3732"
+           x="424.1109"
+           id="tspan5122-15"
+           sodipodi:role="line">G</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-5"
+         y="377.56201"
+         x="452.88858"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.56201"
+           x="452.88858"
+           id="tspan5122-4"
+           sodipodi:role="line">Y</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-7"
+         y="377.3732"
+         x="481.09982"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.3732"
+           x="481.09982"
+           id="tspan5122-65"
+           sodipodi:role="line">S</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-69"
+         y="377.56201"
+         x="510.44159"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.56201"
+           x="510.44159"
+           id="tspan5122-3"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-74"
+         y="377.3732"
+         x="538.73529"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.3732"
+           x="538.73529"
+           id="tspan5122-5"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+         id="text5124-2"
+         y="377.56201"
+         x="567.5296"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="377.56201"
+           x="567.5296"
+           id="tspan5122-54"
+           sodipodi:role="line">I</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+       x="639.03033"
+       y="45.177505"
+       id="text5271"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5269"
+         x="639.03033"
+         y="45.177505"
+         style="font-size:13.3333px;fill:#000000;fill-opacity:1">...</tspan></text>
+  </g>
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
-     x="291.108"
-     y="257.00711"
-     id="text273276-8-5"
+     x="308.64847"
+     y="116.97261"
+     id="text5506"
      inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
      inkscape:export-xdpi="300"
      inkscape:export-ydpi="300"><tspan
        sodipodi:role="line"
-       id="tspan273274-6-4"
-       x="291.108"
-       y="257.00711"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">d)</tspan></text>
+       id="tspan5504"
+       x="308.64847"
+       y="116.97261"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">m-RNA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="284.34918"
+     y="135.65549"
+     id="text5512"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5508"
+       x="284.34918"
+       y="135.65549"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Amino</tspan><tspan
+       sodipodi:role="line"
+       x="284.34918"
+       y="152.32216"
+       id="tspan5510"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Acids</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5516"
+     y="116.78191"
+     x="358.44925"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="116.78191"
+       x="358.44925"
+       id="tspan5514"
+       sodipodi:role="line">GCU</tspan></text>
+  <a
+     transform="translate(49.497474,-243.02928)"
+     id="a5522">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="337.40576"
+       y="359.81119"
+       id="text5520"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5518"
+         x="337.40576"
+         y="359.81119"
+         style="font-size:13.3333px">AUA</tspan></text>
+  </a>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5526"
+     y="116.78191"
+     x="416.79327"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="116.78191"
+       x="416.79327"
+       id="tspan5524"
+       sodipodi:role="line">AGG</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5530"
+     y="116.78191"
+     x="444.80121"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="116.78191"
+       x="444.80121"
+       id="tspan5528"
+       sodipodi:role="line">CUA</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5534"
+     y="116.78191"
+     x="473.64093"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="116.78191"
+       x="473.64093"
+       id="tspan5532"
+       sodipodi:role="line">GG<tspan
+   style="fill:#f50000;fill-opacity:1"
+   id="tspan6167">A</tspan></tspan></text>
+  <g
+     transform="translate(49.497474,-243.02928)"
+     id="g5546">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="452.3645"
+       y="359.81119"
+       id="text5540"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5538"
+         x="452.3645"
+         y="359.81119"
+         style="font-size:13.3333px">UAC<tspan
+   style="fill:#d40000"
+   id="tspan5536" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="481.69553"
+       y="359.81119"
+       id="text5544"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5542"
+         x="481.69553"
+         y="359.81119"
+         style="font-size:13.3333px">AGU</tspan></text>
+  </g>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5550"
+     y="116.78191"
+     x="559.61682"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="116.78191"
+       x="559.61682"
+       id="tspan5548"
+       sodipodi:role="line">GCA</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5554"
+     y="116.78191"
+     x="588.02771"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="116.78191"
+       x="588.02771"
+       id="tspan5552"
+       sodipodi:role="line">UGC</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5558"
+     y="116.78191"
+     x="617.03033"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="116.78191"
+       x="617.03033"
+       id="tspan5556"
+       sodipodi:role="line">AUA</tspan></text>
+  <g
+     transform="translate(49.497474,-233.50183)"
+     id="g5640">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="323.14786"
+       y="376.53186"
+       id="text5562"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5560"
+         x="323.14786"
+         y="376.53186">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="308.74997"
+       y="377.5625"
+       id="text5566"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5564"
+         x="308.74997"
+         y="377.5625">A</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5570"
+       y="376.53186"
+       x="352.24335"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="376.53186"
+         x="352.24335"
+         id="tspan5568"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="380.95636"
+       y="376.53186"
+       id="text5574"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5572"
+         x="380.95636"
+         y="376.53186">-</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5578"
+       y="376.53186"
+       x="410.07678"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="376.53186"
+         x="410.07678"
+         id="tspan5576"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="437.96753"
+       y="376.53186"
+       id="text5582"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5580"
+         x="437.96753"
+         y="376.53186">-</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5586"
+       y="376.53186"
+       x="467.28555"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="376.53186"
+         x="467.28555"
+         id="tspan5584"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="495.85046"
+       y="376.53186"
+       id="text5590"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5588"
+         x="495.85046"
+         y="376.53186">-</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5594"
+       y="376.53186"
+       x="524.49731"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="376.53186"
+         x="524.49731"
+         id="tspan5592"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="553.20569"
+       y="376.53186"
+       id="text5598"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5596"
+         x="553.20569"
+         y="376.53186">-</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5602"
+       y="377.5625"
+       x="308.74997"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.5625"
+         x="308.74997"
+         id="tspan5600"
+         sodipodi:role="line">A</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5606"
+       y="377.56201"
+       x="337.4025"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.56201"
+         x="337.4025"
+         id="tspan5604"
+         sodipodi:role="line">I</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5610"
+       y="377.56201"
+       x="366.33878"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.56201"
+         x="366.33878"
+         id="tspan5608"
+         sodipodi:role="line">R</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5614"
+       y="377.56201"
+       x="395.00427"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.56201"
+         x="395.00427"
+         id="tspan5612"
+         sodipodi:role="line">L</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5618"
+       y="377.3732"
+       x="424.1109"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.3732"
+         x="424.1109"
+         id="tspan5616"
+         sodipodi:role="line">G</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5622"
+       y="377.56201"
+       x="452.88858"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.56201"
+         x="452.88858"
+         id="tspan5620"
+         sodipodi:role="line">Y</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5626"
+       y="377.3732"
+       x="481.09982"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.3732"
+         x="481.09982"
+         id="tspan5624"
+         sodipodi:role="line">S</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5630"
+       y="377.56201"
+       x="510.44159"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.56201"
+         x="510.44159"
+         id="tspan5628"
+         sodipodi:role="line">A</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5634"
+       y="377.3732"
+       x="538.73529"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.3732"
+         x="538.73529"
+         id="tspan5632"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5638"
+       y="377.56201"
+       x="567.5296"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         y="377.56201"
+         x="567.5296"
+         id="tspan5636"
+         sodipodi:role="line">I</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="639.03033"
+     y="116.78191"
+     id="text5644"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5642"
+       x="639.03033"
+       y="116.78191"
+       style="font-size:13.3333px;fill:#000000;fill-opacity:1">...</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5650"
+     y="194.10463"
+     x="308.64847"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+       y="194.10463"
+       x="308.64847"
+       id="tspan5648"
+       sodipodi:role="line">m-RNA</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5656"
+     y="212.78751"
+     x="284.34918"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       y="212.78751"
+       x="284.34918"
+       id="tspan5652"
+       sodipodi:role="line">Amino</tspan><tspan
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="tspan5654"
+       y="229.45418"
+       x="284.34918"
+       sodipodi:role="line">Acids</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="358.44925"
+     y="193.91393"
+     id="text5660"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5658"
+       x="358.44925"
+       y="193.91393"
+       style="font-size:13.3333px">GCU</tspan></text>
+  <a
+     id="a5666"
+     transform="translate(49.497474,-165.89726)">
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5664"
+       y="359.81119"
+       x="337.40576"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="359.81119"
+         x="337.40576"
+         id="tspan5662"
+         sodipodi:role="line">AUA</tspan></text>
+  </a>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="416.79327"
+     y="193.91393"
+     id="text5670"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5668"
+       x="416.79327"
+       y="193.91393"
+       style="font-size:13.3333px">AGG</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="444.80121"
+     y="193.91393"
+     id="text5674"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5672"
+       x="444.80121"
+       y="193.91393"
+       style="font-size:13.3333px">CUA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="473.64093"
+     y="193.91393"
+     id="text5678"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5676"
+       x="473.64093"
+       y="193.91393"
+       style="font-size:13.3333px">G<tspan
+   style="fill:#f50000;fill-opacity:1"
+   id="tspan6169">A</tspan>U</tspan></text>
+  <g
+     id="g5690"
+     transform="translate(49.497474,-165.89726)">
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5684"
+       y="359.81119"
+       x="452.3645"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="359.81119"
+         x="452.3645"
+         id="tspan5682"
+         sodipodi:role="line">UAC<tspan
+   id="tspan5680"
+   style="fill:#d40000" /></tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       id="text5688"
+       y="359.81119"
+       x="481.69553"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       xml:space="preserve"><tspan
+         style="font-size:13.3333px"
+         y="359.81119"
+         x="481.69553"
+         id="tspan5686"
+         sodipodi:role="line">AGU</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="559.61682"
+     y="193.91393"
+     id="text5694"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5692"
+       x="559.61682"
+       y="193.91393"
+       style="font-size:13.3333px">GCA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="588.02771"
+     y="193.91393"
+     id="text5698"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5696"
+       x="588.02771"
+       y="193.91393"
+       style="font-size:13.3333px">UGC</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="617.03033"
+     y="193.91393"
+     id="text5702"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5700"
+       x="617.03033"
+       y="193.91393"
+       style="font-size:13.3333px">AUA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="372.64532"
+     y="220.16205"
+     id="text5706"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5704"
+       x="372.64532"
+       y="220.16205">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="358.24744"
+     y="221.19269"
+     id="text5710"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5708"
+       x="358.24744"
+       y="221.19269">A</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5714"
+     y="220.16205"
+     x="401.74081"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="220.16205"
+       x="401.74081"
+       id="tspan5712"
+       sodipodi:role="line">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="430.45383"
+     y="220.16205"
+     id="text5718"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5716"
+       x="430.45383"
+       y="220.16205">-</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5722"
+     y="220.16205"
+     x="459.57425"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="220.16205"
+       x="459.57425"
+       id="tspan5720"
+       sodipodi:role="line">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="487.465"
+     y="220.16205"
+     id="text5726"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5724"
+       x="487.465"
+       y="220.16205">-</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5730"
+     y="220.16205"
+     x="516.78302"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="220.16205"
+       x="516.78302"
+       id="tspan5728"
+       sodipodi:role="line">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="545.34796"
+     y="220.16205"
+     id="text5734"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5732"
+       x="545.34796"
+       y="220.16205">-</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5738"
+     y="220.16205"
+     x="573.99481"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="220.16205"
+       x="573.99481"
+       id="tspan5736"
+       sodipodi:role="line">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="602.70319"
+     y="220.16205"
+     id="text5742"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5740"
+       x="602.70319"
+       y="220.16205">-</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5746"
+     y="221.19269"
+     x="358.24744"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.19269"
+       x="358.24744"
+       id="tspan5744"
+       sodipodi:role="line">A</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5750"
+     y="221.1922"
+     x="386.89996"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.1922"
+       x="386.89996"
+       id="tspan5748"
+       sodipodi:role="line">I</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5754"
+     y="221.1922"
+     x="415.83624"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.1922"
+       x="415.83624"
+       id="tspan5752"
+       sodipodi:role="line">R</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5758"
+     y="221.1922"
+     x="444.50174"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.1922"
+       x="444.50174"
+       id="tspan5756"
+       sodipodi:role="line">L</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5762"
+     y="221.00339"
+     x="473.60837"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="fill:#f50000;fill-opacity:1"
+       y="221.00339"
+       x="473.60837"
+       id="tspan5760"
+       sodipodi:role="line">D</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5766"
+     y="221.1922"
+     x="502.38605"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.1922"
+       x="502.38605"
+       id="tspan5764"
+       sodipodi:role="line">Y</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5770"
+     y="221.00339"
+     x="530.59729"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.00339"
+       x="530.59729"
+       id="tspan5768"
+       sodipodi:role="line">S</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5774"
+     y="221.1922"
+     x="559.93909"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.1922"
+       x="559.93909"
+       id="tspan5772"
+       sodipodi:role="line">A</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5778"
+     y="221.00339"
+     x="588.23279"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.00339"
+       x="588.23279"
+       id="tspan5776"
+       sodipodi:role="line">C</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5782"
+     y="221.1922"
+     x="617.0271"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="221.1922"
+       x="617.0271"
+       id="tspan5780"
+       sodipodi:role="line">I</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5788"
+     y="193.91393"
+     x="639.03033"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px;fill:#000000;fill-opacity:1"
+       y="193.91393"
+       x="639.03033"
+       id="tspan5786"
+       sodipodi:role="line">...</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="308.64847"
+     y="271.05569"
+     id="text5794"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5792"
+       x="308.64847"
+       y="271.05569"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">m-RNA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="284.34918"
+     y="289.73859"
+     id="text5800"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5796"
+       x="284.34918"
+       y="289.73859"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Amino</tspan><tspan
+       sodipodi:role="line"
+       x="284.34918"
+       y="306.40524"
+       id="tspan5798"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Acids</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5804"
+     y="270.86499"
+     x="358.44925"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86499"
+       x="358.44925"
+       id="tspan5802"
+       sodipodi:role="line">GCU</tspan></text>
+  <a
+     transform="translate(49.497474,-88.94618)"
+     id="a5810">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       x="337.40576"
+       y="359.81119"
+       id="text5808"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5806"
+         x="337.40576"
+         y="359.81119"
+         style="font-size:13.3333px">AUA</tspan></text>
+  </a>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5814"
+     y="270.86499"
+     x="416.79327"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86499"
+       x="416.79327"
+       id="tspan5812"
+       sodipodi:role="line">AGG</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5818"
+     y="270.86499"
+     x="444.80121"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86499"
+       x="444.80121"
+       id="tspan5816"
+       sodipodi:role="line">CUA</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5822"
+     y="270.86499"
+     x="473.64093"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86499"
+       x="473.64093"
+       id="tspan5820"
+       sodipodi:role="line">GGU</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5828"
+     y="270.86502"
+     x="501.86197"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86502"
+       x="501.86197"
+       id="tspan5826"
+       sodipodi:role="line">UA<tspan
+   id="tspan6171"
+   style="fill:#f50000;fill-opacity:1">A</tspan></tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5832"
+     y="270.86502"
+     x="531.19299"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86502"
+       x="531.19299"
+       id="tspan5830"
+       sodipodi:role="line">AGU</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5838"
+     y="270.86499"
+     x="559.61682"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86499"
+       x="559.61682"
+       id="tspan5836"
+       sodipodi:role="line">GCA</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5842"
+     y="270.86499"
+     x="588.02771"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86499"
+       x="588.02771"
+       id="tspan5840"
+       sodipodi:role="line">UGC</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5846"
+     y="270.86499"
+     x="617.03033"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="font-size:13.3333px"
+       y="270.86499"
+       x="617.03033"
+       id="tspan5844"
+       sodipodi:role="line">AUA</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5850"
+     y="297.11313"
+     x="372.64532"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="297.11313"
+       x="372.64532"
+       id="tspan5848"
+       sodipodi:role="line">-</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5854"
+     y="298.14377"
+     x="358.24744"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="298.14377"
+       x="358.24744"
+       id="tspan5852"
+       sodipodi:role="line">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="401.74081"
+     y="297.11313"
+     id="text5858"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5856"
+       x="401.74081"
+       y="297.11313">-</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5862"
+     y="297.11313"
+     x="430.45383"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="297.11313"
+       x="430.45383"
+       id="tspan5860"
+       sodipodi:role="line">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="459.57425"
+     y="297.11313"
+     id="text5866"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5864"
+       x="459.57425"
+       y="297.11313">-</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text5870"
+     y="297.11313"
+     x="487.465"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="297.11313"
+       x="487.465"
+       id="tspan5868"
+       sodipodi:role="line">-</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="358.24744"
+     y="298.14377"
+     id="text5890"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5888"
+       x="358.24744"
+       y="298.14377">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="386.89996"
+     y="298.14328"
+     id="text5894"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5892"
+       x="386.89996"
+       y="298.14328">I</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="415.83624"
+     y="298.14328"
+     id="text5898"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5896"
+       x="415.83624"
+       y="298.14328">R</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="444.50174"
+     y="298.14328"
+     id="text5902"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5900"
+       x="444.50174"
+       y="298.14328">L</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="473.60837"
+     y="297.95447"
+     id="text5906"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5904"
+       x="473.60837"
+       y="297.95447">G</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="510.38605"
+     y="298.14328"
+     id="text5910"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       style="fill:#f50000;fill-opacity:1"
+       sodipodi:role="line"
+       id="tspan5908"
+       x="510.38605"
+       y="298.14328">Stop</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="639.03033"
+     y="270.86499"
+     id="text5932"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan5930"
+       x="639.03033"
+       y="270.86499"
+       style="font-size:13.3333px;fill:#000000;fill-opacity:1">...</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 489.125,272.08856 5.19768,16.74118"
+     id="path6218"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 516.875,272.20601 8.5,16.54399"
+     id="path6220"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="631.0271"
+     y="221.1922"
+     id="text6264"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan6262"
+       x="631.0271"
+       y="221.1922">...</tspan></text>
+  <text
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     id="text6268"
+     y="144.0672"
+     x="631.0271"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="144.0672"
+       x="631.0271"
+       id="tspan6266"
+       sodipodi:role="line">...</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+     x="631.0271"
+     y="66.915771"
+     id="text6272"
+     inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Mutations.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><tspan
+       sodipodi:role="line"
+       id="tspan6270"
+       x="631.0271"
+       y="66.915771">...</tspan></text>
 </svg>
