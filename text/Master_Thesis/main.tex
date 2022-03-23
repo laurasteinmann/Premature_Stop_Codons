@@ -1,4 +1,4 @@
-\documentclass[english,onecolumn,bibliography=totocnumbered]{scrreprt}
+\documentclass[english,onecolumn]{scrreprt}
 
 % Spracheinstellungen
 \usepackage[T1]{fontenc}
@@ -39,7 +39,7 @@
 	\g@addto@macro\bfseries{\boldmath} % Bold math in headings
 \makeatother
 %Table of Contents
-\usepackage[nottoc,notlof]{tocbibind} %Einbinden Bibliography in Table of Contents
+\usepackage[nottoc, notlof, notlot]{tocbibind} %Einbinden Bibliography in Table of Contents
 
 % Grafiken
 \usepackage{graphicx}
@@ -157,9 +157,12 @@ sorting=none
 \addtocounter{chapter}{1}
 \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}List of Figures}
 \listoffigures
-
+\addtocounter{chapter}{1}
+\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}List of Tables}
+\listoftables
+\addtocounter{chapter}{1}
+\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}Bibliographie}
 \printbibliography
-%listoftables
 \newpage
 \section*{Affirmation}
 I hereby confirm that my master thesis entitled Selection on loss-of-function variants \\
