@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Numbers_Workflow.png.svg"
+   inkscape:export-filename="/home/laura/Documents/Premature_Stopp_Codons/results/figures/Numbers_Workflow.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="407.32657"
+     inkscape:cy="491.42859"
+     inkscape:window-width="1920"
+     inkscape:window-height="1139"
+     inkscape:window-x="3840"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid179016" />
+    <sodipodi:guide
+       position="115.15979,253.96392"
+       orientation="0,-1"
+       id="guide33754" />
+    <sodipodi:guide
+       position="132.34332,225.25141"
+       orientation="0,-1"
+       id="guide74384" />
+    <sodipodi:guide
+       position="148.8402,196.29898"
+       orientation="0,-1"
+       id="guide77422" />
+    <sodipodi:guide
+       position="90.382052,160.58127"
+       orientation="0,-1"
+       id="guide217938" />
+    <sodipodi:guide
+       position="116.69072,107.16495"
+       orientation="0,-1"
+       id="guide224794" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="35.518722"
+       y="578.86303"
+       width="225.92519"
+       height="123.08867"
+       id="rect467796" />
+    <rect
+       x="422.84575"
+       y="582.3593"
+       width="51.653667"
+       height="44.679923"
+       id="rect433739" />
+    <rect
+       x="358.65891"
+       y="708.04253"
+       width="74.393267"
+       height="96.751791"
+       id="rect433447" />
+    <rect
+       x="200.11385"
+       y="549.7017"
+       width="125.21836"
+       height="88.402701"
+       id="rect420702" />
+    <rect
+       x="234.98098"
+       y="332.36126"
+       width="52.928445"
+       height="41.708528"
+       id="rect194206" />
+    <rect
+       x="293.82013"
+       y="199.15372"
+       width="222.81177"
+       height="96.233507"
+       id="rect32340" />
+    <rect
+       x="170.37652"
+       y="144.24656"
+       width="119.40521"
+       height="54.811655"
+       id="rect30288" />
+    <marker
+       style="overflow:visible"
+       id="marker28659"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path28657" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker28649"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path28647" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28639"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path28637" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker28629"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path28627" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path28271" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path28274" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-0-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-0-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-9-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-0-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-9-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-93"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-19" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-32"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-93-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-19-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-0-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-0-2-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-9-8-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-65" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-3-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-2-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-65-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28649-9-0-2-7-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28647-1-9-8-3-4-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.618508;stroke-opacity:1"
+       id="rect846"
+       width="65.093613"
+       height="22.705851"
+       x="76.449593"
+       y="8.647542"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.417593;stroke-opacity:1"
+       id="rect846-56"
+       width="53.99712"
+       height="12.477248"
+       x="126.65615"
+       y="43.036079"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.423629;stroke-opacity:1;opacity:0.5"
+       id="rect846-5"
+       width="55.687088"
+       height="12.450889"
+       x="40.539204"
+       y="42.984577"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.384271;stroke-opacity:1"
+       id="rect846-5-3"
+       width="45.750919"
+       height="12.469824"
+       x="113.62246"
+       y="71.748589"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.380078;stroke-opacity:1"
+       id="rect846-5-3-9"
+       width="44.612408"
+       height="12.510495"
+       x="163.79523"
+       y="71.718788"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.487274;stroke-opacity:1"
+       id="rect846-5-2"
+       width="58.364986"
+       height="15.71729"
+       x="38.822533"
+       y="71.770378"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.402521;stroke-opacity:1"
+       id="rect846-5-2-6"
+       width="31.063961"
+       height="20.151421"
+       x="5.370378"
+       y="116.2673"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.404882;stroke-opacity:1"
+       id="rect846-5-2-6-1"
+       width="31.088146"
+       height="20.372684"
+       x="73.263237"
+       y="116.04605"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.232569;stroke-opacity:1"
+       id="rect846-5-2-7"
+       width="37.893925"
+       height="5.5146279"
+       x="17.313444"
+       y="100.75001"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.316052;stroke-opacity:1"
+       id="rect846-5-2-7-6"
+       width="39.871941"
+       height="9.67906"
+       x="118.86549"
+       y="100.74276"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.309761;stroke-opacity:1"
+       id="rect846-5-2-7-6-1"
+       width="38.275463"
+       height="9.6853514"
+       x="167.60597"
+       y="100.70102"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.2558;stroke-opacity:1"
+       id="rect846-5-2-7-2"
+       width="44.951775"
+       height="5.6239018"
+       x="70.374031"
+       y="100.70102"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="109.65612"
+       y="13.598297"
+       id="text6724"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="109.65612"
+         y="13.598297"
+         id="tspan12876">RNA-Seq of 665 accessions </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="109.65612"
+         y="18.889959"
+         id="tspan61574">of A. thaliana <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan67256">29029</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="109.65612"
+         y="24.181622"
+         id="tspan64122">premature stop codons in </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="109.65612"
+         y="29.473284"
+         id="tspan19397">1,135 accessions</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.244796px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649)"
+       d="M 95.82993,31.805162 73.802208,42.625828"
+       id="path28984"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.259856px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-7)"
+       d="m 119.06158,31.78469 22.41888,11.251391"
+       id="path28984-0"
+       inkscape:transform-center-x="-6.6338043"
+       inkscape:transform-center-y="29.460704"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text30286"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect30288)"><tspan
+         x="170.37695"
+         y="234.44922"
+         id="tspan273508"><tspan
+           dx="0 27.363281 25.390625 25.390625 15.566406 24.472656 24.511719 21.992188 25.351562 13.476562 12.714844 30.996094 24.609375 25.351562 23.90625 23.671875 25.390625 15.566406 24.609375 20.839844 20.839844 11.113281 24.472656 12.714844 25.351562"
+           id="tspan273506">Approach: Genexpressio nm</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text32338"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;text-align:center;white-space:pre;shape-inside:url(#rect32340)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="68.039558"
+       y="48.653366"
+       id="text37692"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan37690"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="68.039558"
+         y="48.653366">Approach: gene </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="68.039558"
+         y="53.94503"
+         id="tspan45530">expression differences</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="154.23953"
+       y="49.956009"
+       id="text50160"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan50158"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="154.23953"
+         y="49.956009">Approach: protein length</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649)"
+       d="m 67.641918,55.435471 v 15.86924"
+       id="path80332"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-2)"
+       d="M 186.46995,84.831779 V 100.70102"
+       id="path80332-2"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-2-6)"
+       d="M 136.87227,84.831779 V 100.70102"
+       id="path80332-2-4"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.184569px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-93)"
+       d="m 121.64384,136.41873 v 7.72243"
+       id="path80332-4"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="68.687294"
+       y="75.733559"
+       id="text81983"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan81981"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="68.687294"
+         y="75.733559">Known <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan206482">g</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan93721">ene expression</tspan> </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="68.687294"
+         y="81.025223"
+         id="tspan87271">for <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan96477">7124</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan213182">p</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan98291">remature</tspan> </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="68.687294"
+         y="86.316879"
+         id="tspan88941">stop codons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="121.24688"
+       y="100.83958"
+       id="text121535"><tspan
+         sodipodi:role="line"
+         id="tspan121533"
+         style="stroke-width:0.264583"
+         x="121.24688"
+         y="100.83958" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9)"
+       d="M 62.172051,87.937251 40.144329,100.1823"
+       id="path28984-2"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.240111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-3)"
+       d="M 146.71253,55.789668 132.34332,71.748591"
+       id="path28984-2-37"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.240111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-3-5)"
+       d="m 171.81999,55.806752 14.38816,15.941839"
+       id="path28984-2-37-7"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.286073px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-1)"
+       d="M 112.97924,161.13437 87.6447,173.98296"
+       id="path28984-2-6"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.198733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-1-0)"
+       d="m 84.983777,180.35914 -16.578105,9.47591"
+       id="path28984-2-6-8"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.272066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-1-6)"
+       d="m 133.70031,161.21806 22.97854,12.81271"
+       id="path28984-2-6-3"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25869px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-7)"
+       d="m 74.491525,87.925614 21.40538,12.435206"
+       id="path28984-2-9"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.198827px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-0)"
+       d="m 34.623954,106.46293 -17.226486,9.12778"
+       id="path28984-2-3"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.204083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-0-2)"
+       d="m 93.146097,106.41024 -17.192465,9.63581"
+       id="path28984-2-3-9"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.193393px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-0-2-7)"
+       d="m 104.26311,106.41024 16.20432,9.18047"
+       id="path28984-2-3-9-6"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.193393px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-0-2-7-7)"
+       d="m 160.20401,180.65458 16.20432,9.18047"
+       id="path28984-2-3-9-6-4"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.193393px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-0-2-7-7-7)"
+       d="m 90.41647,180.39161 16.20432,9.18047"
+       id="path28984-2-3-9-6-4-8"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2052px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker28649-9-0-0)"
+       d="m 37.093878,106.34007 18.10493,9.25064"
+       id="path28984-2-3-2"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="35.94466"
+       y="104.88963"
+       id="text184458"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan184456"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="35.94466"
+         y="104.88963">Significant &lt;0.05</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text194204"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;text-align:center;white-space:pre;shape-inside:url(#rect194206)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="67.94149"
+       y="95.17672"
+       id="text196632"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan196630"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="67.94149"
+         y="95.17672">T-Test</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.472959"
+       x="22.477808"
+       y="115.26484"
+       id="text214024"
+       transform="scale(0.95520755,1.0468929)"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.472959"
+         x="22.477808"
+         y="115.26484"
+         id="tspan219976"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan142826">Increase</tspan> of </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.472959"
+         x="22.477808"
+         y="119.67456"
+         id="tspan289924">gene expression: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.472959"
+         x="22.477808"
+         y="124.08429"
+         id="tspan294052">742 premature </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.472959"
+         x="22.477808"
+         y="128.49402"
+         id="tspan316224">stop codons</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.403453;stroke-opacity:1"
+       id="rect846-5-2-6-6"
+       width="31.066568"
+       height="20.243134"
+       x="40.169994"
+       y="116.1756"
+       inkscape:transform-center-x="-0.99050904"
+       inkscape:transform-center-y="-12.520743"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.404882;stroke-opacity:1"
+       id="rect846-5-2-6-6-2"
+       width="31.088146"
+       height="20.372684"
+       x="106.72172"
+       y="116.04605"
+       inkscape:transform-center-x="-0.99119799"
+       inkscape:transform-center-y="-12.600871"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.359085;stroke-opacity:1"
+       id="rect846-5-2-6-6-2-3"
+       width="37.760387"
+       height="13.19306"
+       x="161.58461"
+       y="189.83505"
+       inkscape:transform-center-x="-1.203928"
+       inkscape:transform-center-y="-8.1601448"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.353048;stroke-opacity:1"
+       id="rect846-5-2-6-6-2-3-6"
+       width="36.501312"
+       height="13.19306"
+       x="92.93306"
+       y="189.83505"
+       inkscape:transform-center-x="-1.1637891"
+       inkscape:transform-center-y="-8.1601448"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.371523;stroke-opacity:1"
+       id="rect846-5-2-6-6-2-3-6-3"
+       width="40.448769"
+       height="13.184144"
+       x="46.491417"
+       y="189.83951"
+       inkscape:transform-center-x="-1.2896478"
+       inkscape:transform-center-y="-8.1546324"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.37482;stroke-opacity:1"
+       id="rect846-5-2-6-6-2-6"
+       width="32.989616"
+       height="16.453373"
+       x="107.26966"
+       y="144.56175"
+       inkscape:transform-center-x="-1.051827"
+       inkscape:transform-center-y="-10.176709"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="55.995731"
+       y="120.8115"
+       id="text347852"
+       inkscape:transform-center-x="10.861072"
+       inkscape:transform-center-y="-9.9985402"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan347850"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="55.995731"
+         y="120.8115"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan360892">Decrease</tspan> of </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="55.995731"
+         y="125.22122"
+         id="tspan347854">gene expression:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="55.995731"
+         y="129.63095"
+         id="tspan347856">949 premature </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="55.995731"
+         y="134.04068"
+         id="tspan347858">stop codons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.432003"
+       y="146.52803"
+       id="text373840"><tspan
+         sodipodi:role="line"
+         id="tspan373838"
+         style="stroke-width:0.264583"
+         x="44.432003"
+         y="146.52803" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="92.6036"
+       y="104.84382"
+       id="text376130"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="92.6036"
+         y="104.84382"
+         id="tspan385612">Bonferroni corrected</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.262189;stroke-opacity:1"
+       id="rect846-5-2-7-2-2"
+       width="45.52739"
+       height="5.8336349"
+       x="130.94475"
+       y="174.5278"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="153.86758"
+       y="179.24084"
+       id="text376130-5"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="153.86758"
+         y="179.24084"
+         id="tspan385612-4">Bonferroni corrected</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="88.945312"
+       y="121.10657"
+       id="text400591"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan400589"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="88.945312"
+         y="121.10657"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan415637">Increase</tspan> of </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="88.945312"
+         y="125.51629"
+         id="tspan400593">gene expression:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="88.945312"
+         y="129.92601"
+         id="tspan408613">269 premature</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="88.945312"
+         y="134.33574"
+         id="tspan408615">stop codons </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="88.945312"
+         y="138.74547"
+         id="tspan400595" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text420700"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;text-align:center;white-space:pre;shape-inside:url(#rect420702)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="122.81631"
+       y="121.15603"
+       id="text422798"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan422796"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="122.81631"
+         y="121.15603"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan427486">Decrease</tspan> of</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="122.81631"
+         y="125.56575"
+         id="tspan422800">gene expression: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="122.81631"
+         y="129.97546"
+         id="tspan422802">247 premature </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="122.81631"
+         y="134.38519"
+         id="tspan422804">stop codons</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text433445"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect433447)"><tspan
+         x="358.6582"
+         y="840.18555"
+         id="tspan273512"><tspan
+           dx="0 30.996094 24.609375 25.351562 24.609375"
+           id="tspan273510">Gene </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text433737"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;text-align:center;white-space:pre;shape-inside:url(#rect433739)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="123.34538"
+       y="149.29819"
+       id="text434801"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan434799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="123.34538"
+         y="149.29819">Gene based: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="123.34538"
+         y="154.58986"
+         id="tspan452611">216 stop </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="123.34538"
+         y="159.88152"
+         id="tspan456297">codons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="70.539925"
+       y="166.73831"
+       id="text463257"><tspan
+         sodipodi:role="line"
+         id="tspan463255"
+         style="stroke-width:0.264583"
+         x="70.539925"
+         y="166.73831" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,85.359903,12.074965)"
+       id="text467794"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect467796)"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         x="73.024414"
+         y="593.01953"
+         id="tspan273516"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan273514">Hypergeometric 
+</tspan></tspan><tspan
+         x="130.0752"
+         y="613.01953"
+         id="tspan273520"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan273518">Test</tspan></tspan></text>
+    <rect
+       style="opacity:0.5;fill:#1f77b4;fill-opacity:1;stroke:#000000;stroke-width:0.240617;stroke-opacity:1"
+       id="rect846-5-2-7-7"
+       width="38.351231"
+       height="5.8325157"
+       x="68.491714"
+       y="174.5278"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="87.122932"
+       y="178.98532"
+       id="text184458-4"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan184456-5"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="87.122932"
+         y="178.98532">Significant &lt;0.05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="180.37523"
+       y="192.79622"
+       id="text482823"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan482821"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="180.37523"
+         y="192.79622"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan494283">over-coocurrence</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="180.37523"
+         y="197.20595"
+         id="tspan482825"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan496907">1128</tspan> interactions </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="180.37523"
+         y="201.61566"
+         id="tspan491809">of <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan191562">g</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan503095">ene pairs</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="111.4053"
+       y="193.00858"
+       id="text482823-2"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan482821-4"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="111.4053"
+         y="193.00858"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan494283-7">over-coocurrence</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="111.4053"
+         y="197.4183"
+         id="tspan482825-9"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan231836">1128</tspan> interactions </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="111.4053"
+         y="201.82802"
+         id="tspan491809-9">of <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan191562-2">g</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan503095-8">ene pairs</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="67.119278"
+       y="192.76541"
+       id="text482823-2-0"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan482821-4-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="67.119278"
+         y="192.76541"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan494283-7-7">under-coocurrence</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="67.119278"
+         y="197.17514"
+         id="tspan482825-9-8"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan231836-9">134</tspan> interactions </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="67.119278"
+         y="201.58485"
+         id="tspan491809-9-1">of <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan191562-2-5">g</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan503095-8-4">ene pairs</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="136.96031"
+       y="76.282516"
+       id="text60554"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="136.96031"
+         y="76.282516"
+         id="tspan62734"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+   id="tspan107435">Threshold of</tspan> 30% </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="136.96031"
+         y="81.574181"
+         id="tspan105597">remaining protein</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="139.24475"
+       y="104.52545"
+       id="text82255"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan82253"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="139.24475"
+         y="104.52545">18718 premature </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="139.24475"
+         y="109.81712"
+         id="tspan87351">stop codons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.15166px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.259479"
+       x="189.41176"
+       y="74.907402"
+       id="text111705"
+       transform="scale(0.98070863,1.0196708)"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan111703"
+         style="font-size:4.15166px;stroke-width:0.259479"
+         x="189.41176"
+         y="74.907402">Threshold of <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.259479"
+   id="tspan119879">0.47% </tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.15166px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.259479"
+         x="189.41176"
+         y="80.096977"
+         id="tspan113587">remaining protein</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="187.10692"
+       y="104.34592"
+       id="text123004"
+       inkscape:export-filename="/home/laura/Repositories/Premature_Stop_Codons/text/Master_Thesis/images/Numbers_Workflow.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan123002"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="187.10692"
+         y="104.34592">247 premature </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="187.10692"
+         y="109.63758"
+         id="tspan129000">stop codons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="119.25572"
+       y="123.84085"
+       id="text165200"><tspan
+         sodipodi:role="line"
+         id="tspan165198"
+         style="stroke-width:0.264583"
+         x="119.25572"
+         y="123.84085" /></text>
+  </g>
+</svg>
