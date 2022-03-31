@@ -1,0 +1,38 @@
+\documentclass{beamer}
+\usepackage{textpos}
+%\input{Theme/Packages.tex}
+\usetheme{Madrid}
+\usecolortheme{beaver}
+\usepackage{siunitx} % Zahlen, Einheiten und Tabellenformatierung
+	\sisetup{
+		locale = DE,
+		per-mode = symbol,
+		output-decimal-marker = {.},
+		separate-uncertainty = true,
+		binary-units = true
+	}
+%\usepackage[backend=bibtex,hyperref=true, style=authortitle]{biblatex}
+%\addbibresource{Bib/GenomicPrediction.bib}
+\beamertemplatenavigationsymbolsempty
+\title{Selection on loss-of-function variants}
+\titlegraphic{\includegraphics[scale=0.3]{images/CCTB_Logo.pdf}}
+\author{Laura Steinmann}
+\date{06.04.2022}
+
+\begin{document}
+\addtobeamertemplate{frametitle}{}{%
+\begin{textblock*}{10mm}(0.851\textwidth,-1.0cm)
+\includegraphics[height=1cm,width=1.2cm]{images/Uni-Wuerzburg.jpg}
+\end{textblock*}
+\begin{textblock*}{100mm}(0.95\textwidth,-1cm)
+\includegraphics[height=1cm,width=1.0cm]{images/CCTB_short_logo.jpeg}
+\end{textblock*}
+
+}
+
+{\setbeamertemplate{footline}{}
+\frame{\titlepage}}
+\begin{frame}{Test}
+	
+\end{frame}
+\end{document}
