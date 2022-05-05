@@ -65,8 +65,12 @@
 \end{frame}
 \begin{frame}{Point Mutations on population scale}
 	\begin{itemize}
-		\item Point mutations, which occur on population scale and differ between individuals are called \textbf{single nucleotide polymorphisms}
-		\item After emergence of a mutation natural selection acts on them and influence their presence in the populations genetic pool 
+		\item \textbf{Single nucleotide polymorphisms (SNPs)}
+		\begin{itemize}
+			\item Occur on Population scale 
+			\item Differ between individuals
+		\end{itemize}
+		\item Natural selection acts on mutations
 		\begin{itemize}
 			\item[$\rightarrow$] Fatal mutations were removed from the genetic pool
 			\item[$\rightarrow$] Mutations with positive impact are preserved and accumulated in the genetic pool
@@ -224,29 +228,37 @@
 	
 	\vspace{5mm}
 	\begin{enumerate}
-		\item[1.)] Filter according to information of the overlapping datasets
+		\item[1.)] Data cleaning
 	\end{enumerate}
 \end{frame}
 \begin{frame}{Approach 1: Gene expression differences}
 	\textbf{Method}
 
-	analysis of just 665 accessions, for which we have genomic and transcriptomic information
+	analysis of 665 accessions, for which we have genomic and transcriptomic information
 	
 	\vspace{5mm}
 	\begin{enumerate}
-		\item[1.)] Filter according to information of the overlapping datasets
-		\item[2.)] Classify each accessions as wildtype (without premature stop codon) or knock-out accession (with premature stop codon) for each premature stop codon
+		\item[1.)] Data cleaning
+		\item[2.)] For each accession classify 665 accessions as
+		\begin{itemize}
+			\item wildtype (without premature stop codon)
+			\item knock-out (with premature stop codon )
+		\end{itemize} 
 	\end{enumerate}
 \end{frame}
 \begin{frame}{Approach 1: Gene expression differences}
 	\textbf{Method}
 
-	analysis of just 665 accessions, for which we have genomic and transcriptomic information
+	analysis of  665 accessions, for which we have genomic and transcriptomic information
 	
 	\vspace{5mm}
 	\begin{enumerate}
-		\item[1.)] Filter according to information of the overlapping datasets
-		\item[2.)] Classify each accessions as wildtype (without premature stop codon) or knock-out accession (with premature stop codon) for each premature stop codon
+		\item[1.)] Data cleaning
+		\item[2.)] For each accession classify 665 accessions as
+		\begin{itemize}
+			\item wildtype (without premature stop codon)
+			\item knock-out (with premature stop codon )
+		\end{itemize} 
 		\item[3.)] Calculate a t-test to classify premature stop codons into three different groups
 		\begin{itemize}
 			\item Unsignificant change of gene expression
@@ -264,6 +276,7 @@
 		\label{fig:Cathegories}
 		\end{minipage}
 	\end{figure}
+	\textbf{$\rightarrow$ Genexpressionlevel is influenced by non-mediated decay}
 \end{frame}
 \begin{frame}{Approach 1: Gene expression differences}
 	\begin{figure}[tb]
@@ -336,10 +349,10 @@
 
 \begin{frame}{Workflow to study interactions}
 	\begin{enumerate}
-		\item Compression of the list of single premature stop codons of the high confident dataset of gene expression approach to a gene based list of premature stop codons 
-		\item Build interaction pairs of two between these gene based premature stop codons 
-		\item Analyse the number of times, in which this pair is observed together in an accession 
-		\item Calculate a hypergeometric test to statistically analyse if the number of cooccurrence we observe is significantly different from what we would expect as an expectation interval
+		\item Generation of a gene-based list of premature stop codons 
+		\item Build interaction pairs between gene based premature stop codons 
+		\item Count how often this pair is observed together in an accession 
+		\item Calculate a hypergeometric test to statistically analyse if the number of cooccurrence we observe is significant
 	\end{enumerate}
 \end{frame}
 \begin{frame}{Coocurrence between premature stop codons}
@@ -354,20 +367,52 @@
 		\end{tabular}
 		\end{table}
 \end{frame}
+\begin{frame}{Hypothesis about cooccurrence}
+	\begin{figure}[tb]
+		\centering
+		\begin{minipage}[h]{1\textwidth}
+		\centering
+		\includegraphics[width=0.8\textwidth]{images/Knock_out_network_II.png}
+		\label{fig:Example_Network_with_knock_outII}
+		\end{minipage}
+	\end{figure}
+\end{frame}
+\begin{frame}{Hypothesis about cooccurrence}
+	\begin{figure}[tb]
+		\centering
+		\begin{minipage}[h]{1\textwidth}
+		\centering
+		\includegraphics[width=0.8\textwidth]{images/Knock_out_network_hypothesis.png}
+		\label{fig:Example_Network_with_knock_outII}
+		\end{minipage}
+	\end{figure}
+\end{frame}
 \begin{frame}{Summary}
 	\begin{itemize}
 		\item Premature stop codons are distributed all over the 665 accessions of \textit{A. thaliana} and many hundreds of premature stop codon mutations occur for each accession
 		\item By classifying premature stop codons based on their gene expression differences we find three categories 
-		\item We use for further analysis as a high confidential dataset the premature stop codons which show bonferroni significant decreased gene expression 
-		\item By studying pairs of interactions we found that specific premature stop codons are linked together 
+		\item By studying pairs of interactions we find that specific premature stop codons are linked together 
 	\end{itemize}
 \end{frame}
 \begin{frame}{Outlook}
 	\begin{itemize}
 	\item Control with synonymous and non-synonymous mutations
-	\item Control of hypergeometric test by applying GWAS (Genome-wide association studies)
-	\item Creating gene-regulatory networks based on our results to study the interaction between these linked pairs closer 
-	\item Study the group of premature stop codons which result in a positive regulation, which means that they increase their gene expression more closely 
+	\item Control coocurrence numbers by applying GWAS (Genome-wide association studies)
+	\item Creation of gene-regulatory networks based on our results to study the interaction between these linked pairs closer 
+	\item Study the group of premature stop codons, which result in a positive regulation
 	\end{itemize}
+\end{frame}
+\begin{frame}{Acknowledgments}
+	\begin{figure}[tb]
+		\centering
+		\begin{minipage}[h]{1\textwidth}
+		\centering
+		\includegraphics[width=1\textwidth]{images/CCTB_Groupphoto.jpg}
+		\label{fig:CCTB_Groupphoto}
+		\end{minipage}
+	\end{figure}
+	\begin{center}
+		\textbf{Thanks to all members of the CCTB during the last 4 years!}
+	\end{center}
 \end{frame}
 \end{document}
